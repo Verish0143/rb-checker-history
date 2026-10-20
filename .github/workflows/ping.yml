@@ -2,11 +2,13 @@ name: Ping
 
 on:
   schedule:
-    - cron: "0 * * * *"   # jednou za hodinu
+    - cron: "*/5 * * * *"   # každých 5 minut
   workflow_dispatch:
 
 jobs:
   ping:
     runs-on: ubuntu-latest
+
     steps:
-      - run: echo "Ping OK"
+    - name: Run ping
+      run: echo "Ping OK"
