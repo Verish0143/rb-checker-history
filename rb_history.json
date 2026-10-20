@@ -60,6 +60,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-20 21:14:27"
     }
   ],
   "Last Titan Utenus": [
@@ -529,6 +534,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-20 21:14:27"
     }
   ],
   "Abyss Brukunt": [
@@ -550,6 +560,11 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-10-20 21:14:27"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -956,6 +971,11 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-10-20 21:14:27"
     }
   ],
   "Nellis' Vengeful Spirit": [
@@ -1017,6 +1037,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-20 21:14:27"
     }
   ],
   "Fire Lord Shadar": [
@@ -1052,6 +1077,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-20 21:14:27"
     }
   ],
   "Red Eye Captain Trakia": [
@@ -1274,6 +1304,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-20 21:14:27"
     }
   ],
   "Zombie Lord Crowl": [
@@ -1295,6 +1330,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-20 21:14:27"
     }
   ],
   "Greyclaw Kutus": [
@@ -1316,6 +1356,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-20 21:14:27"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -1363,6 +1408,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-20 20:13:44"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-10-20 21:14:27"
     }
   ],
   "Madness Beast": [
@@ -1377,6 +1427,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-20 21:14:27"
     }
   ]
 }
