@@ -29,8 +29,12 @@ def scrape():
             name = cells[0].get_text(strip=True)
             level = cells[1].get_text(strip=True)
             alive = cells[2].get_text(strip=True)
-            key = f"{name} ({level})"
-            current[key] = alive
+
+            key = name  # boss name jako hlavní klíč
+            current[key] = {
+                "level": level,
+                "state": alive
+            }
 
     return current
 
@@ -39,11 +43,17 @@ def main():
     current = scrape()
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    for boss, state in current.items():
+    for boss, info in current.items():
+        level = info["level"]
+        state = info["state"]
+
         if boss not in history:
             history[boss] = []
+
+        # pokud se stav změnil, uložíme nový záznam
         if not history[boss] or history[boss][-1]["state"] != state:
             history[boss].append({
+                "level": level,
                 "state": state,
                 "timestamp": timestamp
             })
