@@ -1030,6 +1030,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-20 20:13:44"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-20 21:20:30"
     }
   ],
   "Chertuba of Great Soul": [
@@ -1271,6 +1276,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-20 21:20:30"
     }
   ],
   "Mammon Collector Talos": [
