@@ -77,6 +77,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Tully": [
@@ -91,6 +96,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Gorgolos": [
@@ -133,6 +143,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Gordon": [
@@ -182,6 +197,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Varka's Chief Horus": [
@@ -224,6 +244,11 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -250,6 +275,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-21 00:31:52"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Gigantic Golem": [
@@ -283,6 +313,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-20 21:41:56"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Death Lord Shax": [
@@ -323,6 +358,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -337,6 +377,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Plague Golem": [
@@ -365,6 +410,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Eilhalder von Hellmann": [
@@ -398,6 +448,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-21 00:31:52"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -452,6 +507,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-21 00:31:52"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -466,6 +526,11 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Demon's Agent Falston": [
@@ -480,6 +545,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -494,6 +564,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Rahha": [
@@ -534,6 +609,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -965,6 +1045,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Icarus Sample 1": [
@@ -1057,6 +1142,11 @@
       "level": "38",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "38",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Rayito the Looter": [
@@ -1083,6 +1173,11 @@
       "level": "36",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "36",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Beleth's Eye": [
@@ -1251,6 +1346,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-21 00:31:52"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -1326,6 +1426,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Tirak": [
@@ -1385,6 +1490,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-20 20:13:44"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Princess Molrang": [
@@ -1430,6 +1540,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-10-20 21:14:27"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Greyclaw Kutus": [
@@ -1437,6 +1552,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-21 05:16:29"
     }
   ],
   "Kuroboros' Priest": [
