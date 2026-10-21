@@ -25,6 +25,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Darion": [
@@ -75,6 +80,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-20 21:14:27"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Last Titan Utenus": [
@@ -87,6 +97,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Tully": [
@@ -106,6 +121,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Gorgolos": [
@@ -118,6 +138,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Hannibal": [
@@ -158,6 +183,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Gordon": [
@@ -170,6 +200,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -196,6 +231,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Lilith": [
@@ -222,6 +262,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Varka's Chief Horus": [
@@ -307,6 +352,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -357,6 +407,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-21 00:31:52"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -1439,6 +1494,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Cat's Eye Bandit": [
@@ -1453,6 +1513,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Ragraman": [
@@ -1474,6 +1539,11 @@
       "level": "29",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "29",
+      "state": "no",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Partisan Leader Talakin": [
@@ -1500,6 +1570,11 @@
       "level": "26",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "26",
+      "state": "no",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Tiger Hornet": [
@@ -1507,6 +1582,11 @@
       "level": "26",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "26",
+      "state": "no",
+      "timestamp": "2026-10-21 09:35:07"
     }
   ],
   "Betrayer of Urutu Freki": [
