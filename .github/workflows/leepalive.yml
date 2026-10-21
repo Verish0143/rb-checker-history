@@ -1,0 +1,26 @@
+name: Keepalive
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # každých 6 hodin
+  workflow_dispatch:
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Touch keepalive file
+      run: |
+        echo "keepalive $(date)" > keepalive.txt
+
+    - name: Commit keepalive
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add keepalive.txt
+        git commit -m "keepalive" || echo "no changes"
+        git push
