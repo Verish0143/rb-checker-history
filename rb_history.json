@@ -37,6 +37,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-21 00:31:52"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Queen Shyeed": [
@@ -108,6 +113,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Hannibal": [
@@ -155,6 +165,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -176,6 +191,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Lilith": [
@@ -363,6 +383,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -467,6 +492,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Korim": [
@@ -633,6 +663,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Lord Ishka": [
@@ -940,6 +975,11 @@
       "level": "45",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "45",
+      "state": "yes",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Evil Spirit Cyrion": [
@@ -1057,6 +1097,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Leto Chief Talkin": [
@@ -1273,6 +1318,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Soul Collector Acheron": [
@@ -1377,6 +1427,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-20 21:41:56"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Boss Akata": [
@@ -1471,6 +1526,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-20 21:20:30"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Mammon Collector Talos": [
@@ -1478,6 +1538,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Pan Dryad": [
@@ -1521,6 +1586,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -1557,6 +1627,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Kuroboros' Priest": [
@@ -1597,6 +1672,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Serpent Demon Bifrons": [
@@ -1604,6 +1684,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Sukar Wererat Chief": [
@@ -1640,6 +1725,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-21 00:31:52"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ],
   "Zombie Lord Ferkel": [
@@ -1652,6 +1742,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-20 21:14:27"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-10-21 08:24:03"
     }
   ]
 }
