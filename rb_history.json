@@ -73,6 +73,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-21 18:55:38"
     }
   ],
   "Hekaton Prime": [
@@ -449,6 +454,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-21 18:55:38"
     }
   ],
   "Menacing Palatanos": [
@@ -504,6 +514,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-10-21 18:55:38"
     }
   ],
   "Doom Blade Tanatos": [
@@ -516,6 +531,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-21 18:55:38"
     }
   ],
   "Vanor Chief Kandra": [
@@ -714,6 +734,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-21 18:55:38"
     }
   ],
   "Rahha": [
@@ -745,6 +770,11 @@
       "level": "62",
       "state": "yes",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "62",
+      "state": "no",
+      "timestamp": "2026-10-21 18:55:38"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -757,6 +787,11 @@
       "level": "61",
       "state": "yes",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "61",
+      "state": "no",
+      "timestamp": "2026-10-21 18:55:38"
     }
   ],
   "Ancient Drake": [
@@ -1460,6 +1495,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-21 18:55:38"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -1472,6 +1512,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 21:14:27"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-21 18:55:38"
     }
   ],
   "Red Eye Captain Trakia": [
@@ -1536,6 +1581,11 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-10-21 18:55:38"
     }
   ],
   "Revenant of Sir Calibus": [
@@ -1555,6 +1605,11 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-10-21 18:55:38"
     }
   ],
   "Corsair Captain Kylon": [
@@ -1562,6 +1617,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-10-21 18:55:38"
     }
   ],
   "Nurka's Messenger": [
@@ -1943,6 +2003,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-20 21:14:27"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-21 18:55:38"
     }
   ],
   "Madness Beast": [
