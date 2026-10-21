@@ -30,6 +30,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-21 09:35:07"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Darion": [
@@ -85,6 +90,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-21 09:35:07"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Last Titan Utenus": [
@@ -295,6 +305,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Longhorn Golkonda": [
@@ -314,6 +329,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -357,6 +377,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-21 09:35:07"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -419,6 +444,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Menacing Palatanos": [
@@ -462,6 +492,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Plague Golem": [
@@ -476,6 +511,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Vanor Chief Kandra": [
@@ -495,6 +535,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Eilhalder von Hellmann": [
@@ -552,6 +597,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Korim": [
@@ -616,6 +666,11 @@
       "level": "67",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "67",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Demon's Agent Falston": [
@@ -635,6 +690,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -680,6 +740,11 @@
       "level": "62",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "62",
+      "state": "yes",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -687,6 +752,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Ancient Drake": [
@@ -699,6 +769,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -723,6 +798,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Lord Ishka": [
@@ -742,6 +822,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-21 00:31:52"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -780,6 +865,11 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-10-20 21:14:27"
+    },
+    {
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -829,6 +919,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Furious Thieles": [
@@ -981,6 +1076,11 @@
       "level": "49",
       "state": "no",
       "timestamp": "2026-10-21 00:31:52"
+    },
+    {
+      "level": "49",
+      "state": "yes",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Ketra Commander Atis": [
@@ -1016,6 +1116,11 @@
       "level": "47",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "47",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Archon Suscepter": [
@@ -1221,6 +1326,11 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-10-20 21:14:27"
+    },
+    {
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Nellis' Vengeful Spirit": [
@@ -1295,6 +1405,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 21:20:30"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Chertuba of Great Soul": [
@@ -1321,6 +1436,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -1328,6 +1448,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Guillotine Warden": [
@@ -1366,6 +1491,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Sejarr's Servitor": [
@@ -1439,6 +1569,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Vuku Grand Seer Gharmash": [
@@ -1463,6 +1598,11 @@
       "level": "32",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "32",
+      "state": "yes",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Apepi": [
@@ -1719,6 +1859,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Lead Tracker Sharuk": [
@@ -1745,6 +1890,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-21 14:38:06"
     }
   ],
   "Malex Herald of Dagoniel": [
