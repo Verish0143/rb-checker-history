@@ -176,6 +176,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-21 09:35:07"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Gorgolos": [
@@ -198,6 +203,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Hannibal": [
@@ -297,6 +307,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -458,6 +473,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Flamestone Giant": [
@@ -480,6 +500,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Gigantic Golem": [
@@ -502,6 +527,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -616,6 +646,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Storm Winged Naga": [
@@ -713,6 +748,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -778,6 +818,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -902,6 +947,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -1077,6 +1127,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-10-21 18:55:38"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Ancient Drake": [
@@ -1121,6 +1176,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -1143,6 +1203,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Lord Ishka": [
@@ -1235,6 +1300,11 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -1259,6 +1329,11 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Harit Guardian Garangky": [
@@ -2223,6 +2298,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-21 09:35:07"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Ragraman": [
@@ -2288,6 +2368,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Patriarch Kuroboros": [
@@ -2351,6 +2436,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Mammon Collector Talos": [
@@ -2363,6 +2453,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Pan Dryad": [
@@ -2438,6 +2533,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Unrequited Kael": [
@@ -2460,6 +2560,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Greyclaw Kutus": [
@@ -2477,6 +2582,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Kuroboros' Priest": [
@@ -2528,6 +2638,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Kaysha Herald of Icarus": [
@@ -2545,6 +2660,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-21 22:03:02"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -2603,6 +2723,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-21 22:03:02"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ],
   "Madness Beast": [
@@ -2647,6 +2772,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-22 19:18:57"
     }
   ]
 }
