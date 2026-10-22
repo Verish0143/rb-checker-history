@@ -57,6 +57,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-22 05:18:09"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Queen Shyeed": [
@@ -125,6 +130,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-22 05:18:09"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Last Titan Utenus": [
@@ -250,6 +260,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-22 00:35:21"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -303,6 +318,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-22 05:18:09"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Sailren": [
@@ -332,6 +352,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-22 05:18:09"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Varka's Chief Horus": [
@@ -527,6 +552,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-22 05:18:09"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -597,6 +627,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-10-22 05:18:09"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Plague Golem": [
@@ -609,6 +644,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-10-21 18:55:38"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Doom Blade Tanatos": [
@@ -712,6 +752,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Korim": [
@@ -724,6 +769,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-22 00:35:21"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Meanas Anor": [
@@ -736,6 +786,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-21 22:03:02"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Palibati Queen Themis": [
@@ -748,6 +803,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-22 05:18:09"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Roaring Skylancer": [
@@ -760,6 +820,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-22 00:35:21"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Shilen's Messenger Cabrio": [
@@ -835,6 +900,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -900,6 +970,11 @@
       "level": "62",
       "state": "no",
       "timestamp": "2026-10-21 18:55:38"
+    },
+    {
+      "level": "62",
+      "state": "yes",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -1465,6 +1540,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Icarus Sample 1": [
@@ -1477,6 +1557,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Leto Chief Talkin": [
@@ -1491,6 +1576,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Road Scavenger Leader": [
@@ -1522,6 +1612,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-21 00:31:52"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Wizard of Storm Teruk": [
@@ -1572,6 +1667,11 @@
       "level": "38",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "38",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Rayito the Looter": [
@@ -1603,6 +1703,11 @@
       "level": "36",
       "state": "yes",
       "timestamp": "2026-10-21 05:16:29"
+    },
+    {
+      "level": "36",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Beleth's Eye": [
@@ -1625,6 +1730,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Chertuba of Great Soul": [
@@ -1642,6 +1752,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-22 05:18:09"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Fire Lord Shadar": [
@@ -1673,6 +1788,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Guillotine Warden": [
@@ -1743,6 +1863,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Soul Collector Acheron": [
@@ -1755,6 +1880,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 22:03:02"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Tasaba Patriarch Hellena": [
@@ -1767,6 +1897,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 22:03:02"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Breka Warlock Pastu": [
@@ -1803,6 +1938,11 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-10-21 00:31:52"
+    },
+    {
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Stakato Queen Zyrnna": [
@@ -2019,6 +2159,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-21 22:03:02"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Ikuntai": [
@@ -2077,6 +2222,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-21 22:03:02"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Soul Scavenger": [
@@ -2106,6 +2256,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-22 05:18:09"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -2159,6 +2314,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Lead Tracker Sharuk": [
@@ -2176,6 +2336,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-22 05:18:09"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -2280,6 +2445,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-22 05:18:09"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-10-22 10:20:00"
     }
   ],
   "Zombie Lord Ferkel": [
