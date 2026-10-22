@@ -52,6 +52,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Queen Shyeed": [
@@ -115,6 +120,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-22 00:35:21"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Last Titan Utenus": [
@@ -288,6 +298,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Sailren": [
@@ -312,6 +327,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-21 09:35:07"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Varka's Chief Horus": [
@@ -357,6 +377,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-10-22 00:35:21"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -434,6 +459,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-21 22:03:02"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -463,6 +493,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-21 22:03:02"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Death Lord Shax": [
@@ -487,6 +522,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-21 09:35:07"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -552,6 +592,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Plague Golem": [
@@ -698,6 +743,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Roaring Skylancer": [
@@ -763,6 +813,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -920,6 +975,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Taik High Prefect Arak": [
@@ -1266,6 +1326,11 @@
       "level": "47",
       "state": "no",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "47",
+      "state": "yes",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Archon Suscepter": [
@@ -1572,6 +1637,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 21:14:27"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Fire Lord Shadar": [
@@ -1615,6 +1685,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 18:55:38"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -1752,6 +1827,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-21 18:55:38"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Nurka's Messenger": [
@@ -1891,6 +1971,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-21 22:03:02"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Tirak": [
@@ -2016,6 +2101,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -2081,6 +2171,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-20 21:14:27"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -2180,6 +2275,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-22 05:18:09"
     }
   ],
   "Zombie Lord Ferkel": [
