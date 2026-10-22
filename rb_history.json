@@ -110,6 +110,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-21 22:03:02"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-22 00:35:21"
     }
   ],
   "Last Titan Utenus": [
@@ -230,6 +235,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-21 09:35:07"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-22 00:35:21"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -242,6 +252,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-21 22:03:02"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-22 00:35:21"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -337,6 +352,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-22 00:35:21"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -654,6 +674,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-22 00:35:21"
     }
   ],
   "Meanas Anor": [
@@ -680,6 +705,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-22 00:35:21"
     }
   ],
   "Shilen's Messenger Cabrio": [
@@ -849,6 +879,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-22 00:35:21"
     }
   ],
   "Ghost of the Well Lidia": [
