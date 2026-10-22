@@ -135,6 +135,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-22 10:20:00"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Last Titan Utenus": [
@@ -159,6 +164,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Giant Marpanak": [
@@ -181,6 +191,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-22 19:18:57"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Gorgolos": [
@@ -241,6 +256,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Ember": [
@@ -782,6 +802,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Immortal Savior Mardil": [
@@ -830,6 +855,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -1076,6 +1106,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-21 00:31:52"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -1083,6 +1118,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Roaring Lord Kastor": [
@@ -1750,6 +1790,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-22 10:20:00"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Icarus Sample 1": [
@@ -2117,6 +2162,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-22 10:20:00"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Breka Warlock Pastu": [
@@ -2221,6 +2271,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -2262,6 +2317,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-22 15:24:16"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Boss Akata": [
@@ -2538,6 +2598,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-10-22 19:18:57"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Unrequited Kael": [
@@ -2587,6 +2652,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-22 19:18:57"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Kuroboros' Priest": [
@@ -2665,6 +2735,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-22 19:18:57"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -2777,6 +2852,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-22 19:18:57"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-10-22 22:29:49"
     }
   ]
 }
