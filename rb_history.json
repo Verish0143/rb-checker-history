@@ -35,6 +35,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-23 19:21:26"
     }
   ],
   "Darion": [
@@ -155,6 +160,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-23 00:52:28"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-23 19:21:26"
     }
   ],
   "Last Titan Utenus": [
@@ -418,6 +428,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-23 05:28:48"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-23 19:21:26"
     }
   ],
   "Sailren": [
@@ -626,6 +641,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-23 19:21:26"
     }
   ],
   "Death Lord Ipos": [
@@ -1396,6 +1416,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-22 19:18:57"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-23 19:21:26"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -2182,6 +2207,11 @@
       "level": "38",
       "state": "no",
       "timestamp": "2026-10-22 10:20:00"
+    },
+    {
+      "level": "38",
+      "state": "yes",
+      "timestamp": "2026-10-23 19:21:26"
     }
   ],
   "Rayito the Looter": [
@@ -2557,6 +2587,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-23 10:27:06"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-10-23 19:21:26"
     }
   ],
   "Nurka's Messenger": [
@@ -2947,6 +2982,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-22 10:20:00"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-23 19:21:26"
     }
   ],
   "Soul Scavenger": [
@@ -3174,6 +3214,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-21 08:24:03"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-23 19:21:26"
     }
   ],
   "Sukar Wererat Chief": [
