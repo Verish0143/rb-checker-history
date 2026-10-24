@@ -533,6 +533,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-24 16:53:13"
     }
   ],
   "Sailren": [
@@ -1081,6 +1086,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-24 13:32:41"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-24 16:53:13"
     }
   ],
   "Vanor Chief Kandra": [
@@ -1289,6 +1299,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-24 13:32:41"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-24 16:53:13"
     }
   ],
   "Meanas Anor": [
@@ -1321,6 +1336,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-24 13:32:41"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-24 16:53:13"
     }
   ],
   "Palibati Queen Themis": [
@@ -1583,6 +1603,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-23 15:20:07"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-24 16:53:13"
     }
   ],
   "Roaring Lord Kastor": [
@@ -2033,6 +2058,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-10-23 15:20:07"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-10-24 16:53:13"
     }
   ],
   "Harit Hero Tamash": [
@@ -3104,6 +3134,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-23 10:27:06"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-24 16:53:13"
     }
   ],
   "Cat's Eye Bandit": [
@@ -3557,6 +3592,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-22 22:29:49"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-24 16:53:13"
     }
   ],
   "Kuroboros' Priest": [
@@ -3628,6 +3668,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-22 19:18:57"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-24 16:53:13"
     }
   ],
   "Kaysha Herald of Icarus": [
