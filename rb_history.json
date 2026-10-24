@@ -579,6 +579,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-24 13:32:41"
     }
   ],
   "Varka's Commander Mos": [
@@ -779,6 +784,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-24 13:32:41"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -1066,6 +1076,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-23 10:27:06"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-24 13:32:41"
     }
   ],
   "Vanor Chief Kandra": [
@@ -1269,6 +1284,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-22 10:20:00"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-24 13:32:41"
     }
   ],
   "Meanas Anor": [
@@ -1296,6 +1316,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-23 10:27:06"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-24 13:32:41"
     }
   ],
   "Palibati Queen Themis": [
@@ -1627,6 +1652,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-10-23 10:27:06"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-10-24 13:32:41"
     }
   ],
   "Ancient Drake": [
@@ -1814,6 +1844,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-23 15:20:07"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-24 13:32:41"
     }
   ],
   "Abyss Brukunt": [
@@ -1909,6 +1944,11 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-10-23 15:20:07"
+    },
+    {
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-10-24 13:32:41"
     }
   ],
   "Harit Guardian Garangky": [
@@ -2245,6 +2285,11 @@
       "level": "45",
       "state": "no",
       "timestamp": "2026-10-23 15:20:07"
+    },
+    {
+      "level": "45",
+      "state": "yes",
+      "timestamp": "2026-10-24 13:32:41"
     }
   ],
   "Evil Spirit Cyrion": [
@@ -3215,6 +3260,11 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-10-23 15:20:07"
+    },
+    {
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-10-24 13:32:41"
     }
   ],
   "Tiger Hornet": [
@@ -3237,6 +3287,11 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-10-23 15:20:07"
+    },
+    {
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-10-24 13:32:41"
     }
   ],
   "Betrayer of Urutu Freki": [
@@ -3433,6 +3488,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-23 15:20:07"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-24 13:32:41"
     }
   ],
   "Unrequited Kael": [
