@@ -55,6 +55,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-25 01:34:23"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Darion": [
@@ -168,6 +173,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-25 06:44:26"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Hekaton Prime": [
@@ -378,6 +388,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Hannibal": [
@@ -416,6 +431,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-22 22:29:49"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Ember": [
@@ -443,6 +463,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Gordon": [
@@ -659,6 +684,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-24 13:32:41"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Varka's Commander Mos": [
@@ -676,6 +706,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-24 05:08:17"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Varka's Hero Shadith": [
@@ -693,6 +728,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-24 05:08:17"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Cherub Galaxia": [
@@ -938,6 +978,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-24 05:08:17"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Death Lord Shax": [
@@ -997,6 +1042,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-25 06:44:26"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -1041,6 +1091,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-24 05:08:17"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Storm Winged Naga": [
@@ -1127,6 +1182,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-10-25 01:34:23"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Plague Golem": [
@@ -1159,6 +1219,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-10-25 06:44:26"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Doom Blade Tanatos": [
@@ -1201,6 +1266,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-25 06:44:26"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Vanor Chief Kandra": [
@@ -1250,6 +1320,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-25 06:44:26"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Eilhalder von Hellmann": [
@@ -1343,6 +1418,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-25 06:44:26"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -1547,6 +1627,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-25 06:44:26"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -1633,6 +1718,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -1680,6 +1770,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-24 21:33:17"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -1778,6 +1873,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-24 19:05:59"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Roaring Lord Kastor": [
@@ -1825,6 +1925,11 @@
       "level": "62",
       "state": "no",
       "timestamp": "2026-10-24 19:05:59"
+    },
+    {
+      "level": "62",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -1862,6 +1967,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-10-24 19:05:59"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Ancient Drake": [
@@ -1968,6 +2078,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Lord Ishka": [
@@ -2005,6 +2120,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-24 21:33:17"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Taik High Prefect Arak": [
@@ -2069,6 +2189,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-24 23:36:26"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Abyss Brukunt": [
@@ -2135,6 +2260,11 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -2184,6 +2314,11 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-10-24 19:05:59"
+    },
+    {
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Harit Guardian Garangky": [
@@ -2201,6 +2336,11 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-10-23 10:27:06"
+    },
+    {
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Refugee Applicant Leo": [
@@ -2230,6 +2370,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Enchanted Forest Watcher Ruell": [
@@ -2305,6 +2450,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-10-23 05:28:48"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Pagan Watcher Cerberon": [
@@ -2319,6 +2469,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Zaken's Butcher Krantz": [
@@ -2348,6 +2503,11 @@
       "level": "54",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "54",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Atraiban": [
@@ -2721,6 +2881,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Road Scavenger Leader": [
@@ -2947,6 +3112,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-25 06:44:26"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Fire Lord Shadar": [
@@ -2976,6 +3146,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -2998,6 +3173,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-23 15:20:07"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Guillotine Warden": [
@@ -3030,6 +3210,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-25 06:44:26"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -3269,6 +3454,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-25 01:34:23"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Vuku Grand Seer Gharmash": [
@@ -3296,6 +3486,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-22 22:29:49"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -3406,6 +3601,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Giant Wasteland Basilisk": [
@@ -3521,6 +3721,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-24 21:33:17"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Tirak": [
@@ -3543,6 +3748,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-24 21:33:17"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Patriarch Kuroboros": [
@@ -3629,6 +3839,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-24 23:36:26"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Ikuntai": [
@@ -3808,6 +4023,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-10-24 13:32:41"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Unrequited Kael": [
@@ -3877,6 +4097,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-24 16:53:13"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Kuroboros' Priest": [
@@ -3931,6 +4156,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -3953,6 +4183,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-24 16:53:13"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Kaysha Herald of Icarus": [
@@ -3980,6 +4215,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-22 22:29:49"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -4051,6 +4291,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-25 06:44:26"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Discarded Guardian": [
@@ -4140,6 +4385,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-25 12:02:39"
     }
   ],
   "Zombie Lord Ferkel": [
