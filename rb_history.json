@@ -163,6 +163,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Hekaton Prime": [
@@ -331,6 +336,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-25 01:34:23"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Gorgolos": [
@@ -768,6 +778,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-25 01:34:23"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Flamestone Giant": [
@@ -800,6 +815,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-24 23:36:26"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Gigantic Golem": [
@@ -972,6 +992,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -1129,6 +1154,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Doom Blade Tanatos": [
@@ -1166,6 +1196,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-24 16:53:13"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Vanor Chief Kandra": [
@@ -1210,6 +1245,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Eilhalder von Hellmann": [
@@ -1298,6 +1338,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -1497,6 +1542,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-22 19:18:57"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -1524,6 +1574,11 @@
       "level": "69",
       "state": "yes",
       "timestamp": "2026-10-25 01:34:23"
+    },
+    {
+      "level": "69",
+      "state": "no",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -2163,6 +2218,11 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-10-23 10:27:06"
+    },
+    {
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Bandit Leader Barda": [
@@ -2882,6 +2942,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Fire Lord Shadar": [
@@ -2960,6 +3025,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -3976,6 +4046,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-25 06:44:26"
     }
   ],
   "Discarded Guardian": [
