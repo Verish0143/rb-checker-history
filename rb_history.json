@@ -653,6 +653,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-24 16:53:13"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-25 21:17:09"
     }
   ],
   "Sailren": [
@@ -1114,6 +1119,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-25 18:53:39"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-25 21:17:09"
     }
   ],
   "Menacing Palatanos": [
@@ -2538,6 +2548,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-10-24 23:36:26"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-10-25 21:17:09"
     }
   ],
   "Harit Hero Tamash": [
@@ -3180,6 +3195,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-25 21:17:09"
     }
   ],
   "Chertuba of Great Soul": [
@@ -3239,6 +3259,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-25 21:17:09"
     }
   ],
   "Flame Lord Shadar": [
@@ -4030,6 +4055,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-25 21:17:09"
     }
   ],
   "Princess Molrang": [
@@ -4143,6 +4173,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-25 12:02:39"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-25 21:17:09"
     }
   ],
   "Unrequited Kael": [
@@ -4416,6 +4451,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-25 12:02:39"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-25 21:17:09"
     }
   ],
   "Discarded Guardian": [
