@@ -446,6 +446,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-25 12:02:39"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-25 18:53:39"
     }
   ],
   "Ember": [
@@ -775,6 +780,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-21 14:38:06"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-25 18:53:39"
     }
   ],
   "Longhorn Golkonda": [
@@ -1099,6 +1109,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-21 18:55:38"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-25 18:53:39"
     }
   ],
   "Menacing Palatanos": [
@@ -2399,6 +2414,11 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-10-25 12:02:39"
+    },
+    {
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-10-25 18:53:39"
     }
   ],
   "Harit Guardian Garangky": [
@@ -4354,6 +4374,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-25 18:53:39"
     }
   ],
   "Sukar Wererat Chief": [
