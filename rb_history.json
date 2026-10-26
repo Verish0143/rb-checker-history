@@ -406,6 +406,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Gorgolos": [
@@ -838,6 +843,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-25 15:59:55"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Cherub Galaxia": [
@@ -1138,6 +1148,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-25 15:59:55"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Death Lord Shax": [
@@ -2115,6 +2130,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-25 15:59:55"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -3423,6 +3443,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-26 06:26:55"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Shaman King Selu": [
@@ -3610,6 +3635,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-25 21:17:09"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Chertuba of Great Soul": [
@@ -3780,6 +3810,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-26 06:26:55"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -4061,6 +4096,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-25 12:02:39"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -4348,6 +4388,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-26 19:27:22"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Patriarch Kuroboros": [
@@ -4621,6 +4666,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-25 01:34:23"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -4668,6 +4718,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-26 06:26:55"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Unrequited Kael": [
@@ -4710,6 +4765,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-10-26 19:27:22"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Greyclaw Kutus": [
@@ -4752,6 +4812,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Kuroboros' Priest": [
@@ -4821,6 +4886,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-26 06:26:55"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -4902,6 +4972,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-24 05:08:17"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Serpent Demon Bifrons": [
@@ -4934,6 +5009,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Sukar Wererat Chief": [
@@ -4981,6 +5061,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-26 06:26:55"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Discarded Guardian": [
@@ -5085,6 +5170,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:17:12"
     }
   ],
   "Zombie Lord Ferkel": [
