@@ -137,6 +137,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Queen Shyeed": [
@@ -483,6 +488,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Hannibal": [
@@ -541,6 +551,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Ember": [
@@ -1282,6 +1297,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-27 02:08:05"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -1502,6 +1522,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-10-27 02:08:05"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Plague Golem": [
@@ -1601,6 +1626,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-27 02:08:05"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Vanor Chief Kandra": [
@@ -1633,6 +1663,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -1867,6 +1902,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-27 02:08:05"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Korim": [
@@ -1909,6 +1949,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-27 02:08:05"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Meanas Anor": [
@@ -1961,6 +2006,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Palibati Queen Themis": [
@@ -2067,6 +2117,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -2346,6 +2401,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -2591,6 +2651,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-24 09:31:36"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -2872,6 +2937,11 @@
       "level": "58",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "58",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Timak Seer Ragoth": [
@@ -2929,6 +2999,11 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Harit Guardian Garangky": [
@@ -3139,6 +3214,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-10-26 19:27:22"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Zaken's Butcher Krantz": [
@@ -3427,6 +3507,11 @@
       "level": "45",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "45",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Dread Avenger Kraven": [
@@ -3462,6 +3547,11 @@
       "level": "44",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "44",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Crazy Mechanic Golem": [
@@ -3532,6 +3622,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-23 05:28:48"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Leto Chief Talkin": [
@@ -3539,6 +3634,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Nakondas": [
@@ -3566,6 +3666,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-25 12:02:39"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Road Scavenger Leader": [
@@ -3600,6 +3705,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Water Couatle Ateka": [
@@ -3622,6 +3732,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-23 05:28:48"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Wizard of Storm Teruk": [
@@ -3629,6 +3744,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Leader of Cat Gang": [
@@ -3743,6 +3863,11 @@
       "level": "36",
       "state": "yes",
       "timestamp": "2026-10-23 10:27:06"
+    },
+    {
+      "level": "36",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Beleth's Eye": [
@@ -4048,6 +4173,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-23 15:20:07"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Soul Collector Acheron": [
@@ -4092,6 +4222,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-22 22:29:49"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Breka Warlock Pastu": [
@@ -4116,6 +4251,11 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-10-21 18:55:38"
+    },
+    {
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Revenant of Sir Calibus": [
@@ -4266,6 +4406,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-26 23:17:12"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -4696,6 +4841,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-22 19:18:57"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Mammon Collector Talos": [
@@ -5034,6 +5184,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-27 13:39:39"
     }
   ],
   "Lead Tracker Sharuk": [
