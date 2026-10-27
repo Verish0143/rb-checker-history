@@ -411,6 +411,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-26 23:17:12"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Gorgolos": [
@@ -482,6 +487,11 @@
       "level": "81",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "81",
+      "state": "no",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Anakim": [
@@ -848,6 +858,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-26 23:17:12"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Cherub Galaxia": [
@@ -865,6 +880,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-10-25 18:53:39"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Longhorn Golkonda": [
@@ -892,6 +912,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-26 06:26:55"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -1227,6 +1252,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -1254,6 +1284,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-25 21:17:09"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Menacing Palatanos": [
@@ -1318,6 +1353,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-26 06:26:55"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -1345,6 +1385,11 @@
       "level": "74",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "74",
+      "state": "yes",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Death Lord Hallate": [
@@ -1412,6 +1457,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Plague Golem": [
@@ -1506,6 +1556,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-25 12:02:39"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Vanor Chief Kandra": [
@@ -1762,6 +1817,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Korim": [
@@ -1799,6 +1859,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Meanas Anor": [
@@ -2612,6 +2677,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -4585,6 +4655,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-26 06:26:55"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Princess Molrang": [
@@ -4955,6 +5030,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -5212,6 +5292,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-27 02:08:05"
     }
   ]
 }
