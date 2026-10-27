@@ -426,6 +426,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-27 02:08:05"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Gorgolos": [
@@ -952,6 +957,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -1828,6 +1838,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-27 18:59:05"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -2169,6 +2184,11 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-10-26 19:27:22"
+    },
+    {
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -2253,6 +2273,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -2342,6 +2367,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-26 19:27:22"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Gargoyle Lord Tiphon": [
@@ -2416,6 +2446,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-27 13:39:39"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -2468,6 +2503,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-27 18:59:05"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Roaring Lord Kastor": [
@@ -2743,6 +2783,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-27 18:59:05"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Lord Ishka": [
@@ -2795,6 +2840,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-27 18:59:05"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Taik High Prefect Arak": [
@@ -2965,6 +3015,11 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-10-25 15:59:55"
+    },
+    {
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -3364,6 +3419,11 @@
       "level": "50",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "50",
+      "state": "no",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Carnamakos": [
@@ -3461,6 +3521,11 @@
       "level": "47",
       "state": "yes",
       "timestamp": "2026-10-22 05:18:09"
+    },
+    {
+      "level": "47",
+      "state": "no",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Archon Suscepter": [
@@ -4081,6 +4146,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -4444,6 +4514,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Vuku Grand Seer Gharmash": [
@@ -5578,6 +5653,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-27 22:55:07"
     }
   ],
   "Madness Beast": [
