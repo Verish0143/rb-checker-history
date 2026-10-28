@@ -596,6 +596,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-27 13:39:39"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-28 23:39:42"
     }
   ],
   "Ember": [
@@ -2468,6 +2473,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-10-28 23:39:42"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -3060,6 +3070,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-27 22:55:07"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-28 23:39:42"
     }
   ],
   "Taik High Prefect Arak": [
@@ -3334,6 +3349,11 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-10-28 23:39:42"
     }
   ],
   "Harit Guardian Garangky": [
@@ -4022,6 +4042,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-27 13:39:39"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-28 23:39:42"
     }
   ],
   "Leto Chief Talkin": [
@@ -4427,6 +4452,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-28 23:39:42"
     }
   ],
   "Fire Lord Shadar": [
@@ -4523,6 +4553,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-27 18:59:05"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-28 23:39:42"
     }
   ],
   "Guillotine Warden": [
@@ -4941,6 +4976,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-10-28 23:39:42"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -5037,6 +5077,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-28 23:39:42"
     }
   ],
   "Boss Akata": [
@@ -5505,6 +5550,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-28 23:39:42"
     }
   ],
   "Princess Molrang": [
@@ -5564,6 +5614,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-28 23:39:42"
     }
   ],
   "Zombie Lord Crowl": [
@@ -5715,6 +5770,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-10-28 23:39:42"
     }
   ],
   "Greyclaw Kutus": [
