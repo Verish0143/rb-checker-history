@@ -149,6 +149,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-28 01:56:04"
     }
   ],
   "Water Spirit Lian": [
@@ -431,6 +436,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-27 22:55:07"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-28 01:56:04"
     }
   ],
   "Gorgolos": [
@@ -682,6 +692,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-24 21:33:17"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-28 01:56:04"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -920,6 +935,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-27 02:08:05"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-28 01:56:04"
     }
   ],
   "Longhorn Golkonda": [
@@ -962,6 +982,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-10-27 22:55:07"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-28 01:56:04"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -1423,6 +1448,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-28 01:56:04"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -1678,6 +1708,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-27 13:39:39"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-28 01:56:04"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -2142,6 +2177,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-27 13:39:39"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-28 01:56:04"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -3710,6 +3750,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-26 19:27:22"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-28 01:56:04"
     }
   ],
   "Icarus Sample 1": [
@@ -3891,6 +3936,11 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-10-26 19:27:22"
+    },
+    {
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-10-28 01:56:04"
     }
   ],
   "Nellis' Vengeful Spirit": [
@@ -4593,6 +4643,11 @@
       "level": "32",
       "state": "no",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "32",
+      "state": "yes",
+      "timestamp": "2026-10-28 01:56:04"
     }
   ],
   "Apepi": [
@@ -4831,6 +4886,11 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-10-28 01:56:04"
     }
   ],
   "Tirak": [
@@ -5480,6 +5540,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-28 01:56:04"
     }
   ],
   "Malex Herald of Dagoniel": [
