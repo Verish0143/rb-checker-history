@@ -157,6 +157,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Queen Shyeed": [
@@ -598,6 +603,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Hannibal": [
@@ -681,6 +691,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Ember": [
@@ -785,6 +800,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-29 21:00:00"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -857,6 +877,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -1691,6 +1716,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-25 15:59:55"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Storm Winged Naga": [
@@ -1748,6 +1778,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -2332,6 +2367,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-27 13:39:39"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Korim": [
@@ -2389,6 +2429,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Meanas Anor": [
@@ -2540,6 +2585,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-30 00:47:18"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Shilen's Messenger Cabrio": [
@@ -2684,6 +2734,11 @@
       "level": "69",
       "state": "yes",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "69",
+      "state": "no",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -2885,6 +2940,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -3021,6 +3081,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-30 06:33:11"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -3078,6 +3143,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-27 22:55:07"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Roaring Lord Kastor": [
@@ -3217,6 +3287,11 @@
       "level": "61",
       "state": "yes",
       "timestamp": "2026-10-30 00:47:18"
+    },
+    {
+      "level": "61",
+      "state": "no",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Ancient Drake": [
@@ -3269,6 +3344,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-30 06:33:11"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -3316,6 +3396,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-30 06:33:11"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -3465,6 +3550,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Taik High Prefect Arak": [
@@ -3517,6 +3607,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -3889,6 +3984,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Furious Thieles": [
@@ -4991,6 +5091,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-29 21:00:00"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -5414,6 +5519,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-29 21:00:00"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Vuku Grand Seer Gharmash": [
@@ -5779,6 +5889,11 @@
       "level": "29",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "29",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Partisan Leader Talakin": [
@@ -5883,6 +5998,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Patriarch Kuroboros": [
@@ -5925,6 +6045,11 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Tiger Hornet": [
@@ -6024,6 +6149,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Ikuntai": [
@@ -6207,6 +6337,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Soul Scavenger": [
@@ -6618,6 +6753,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-28 07:48:23"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Kaysha Herald of Icarus": [
@@ -6675,6 +6815,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:42:35"
     }
   ],
   "Malex Herald of Dagoniel": [
