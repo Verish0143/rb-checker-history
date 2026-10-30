@@ -335,6 +335,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Last Titan Utenus": [
@@ -387,6 +392,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-29 21:00:00"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Tully": [
@@ -814,6 +824,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-23 15:20:07"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Ketra's Hero Hekaton": [
@@ -937,6 +952,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-29 21:00:00"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Varka's Chief Horus": [
@@ -996,6 +1016,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-29 21:00:00"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Varka's Hero Shadith": [
@@ -1043,6 +1068,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Cherub Galaxia": [
@@ -2343,6 +2373,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Roaring Skylancer": [
@@ -2375,6 +2410,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-29 21:00:00"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Shilen's Messenger Cabrio": [
@@ -3017,6 +3057,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Ancient Drake": [
@@ -3349,6 +3394,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Abyss Brukunt": [
@@ -5322,6 +5372,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-28 23:39:42"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Boss Akata": [
@@ -5354,6 +5409,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Cat's Eye Bandit": [
@@ -5391,6 +5451,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Giant Wasteland Basilisk": [
@@ -5919,6 +5984,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-28 23:39:42"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Zombie Lord Crowl": [
@@ -6179,6 +6249,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:47:18"
     }
   ],
   "Lead Tracker Sharuk": [
