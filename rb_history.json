@@ -805,6 +805,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -1158,6 +1163,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 06:33:11"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Cherub Galaxia": [
@@ -1274,6 +1284,11 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-10-24 00:50:36"
+    },
+    {
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -1365,6 +1380,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Gigantic Golem": [
@@ -1518,6 +1538,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Death Lord Shax": [
@@ -1721,6 +1746,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Storm Winged Naga": [
@@ -1783,6 +1813,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -2031,6 +2066,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-27 13:39:39"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Vanor Chief Kandra": [
@@ -2796,6 +2836,11 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Demon's Agent Falston": [
@@ -3148,6 +3193,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Roaring Lord Kastor": [
@@ -3478,6 +3528,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Lord Ishka": [
@@ -3755,6 +3810,11 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-10-28 07:48:23"
+    },
+    {
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -5054,6 +5114,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Flame Lord Shadar": [
@@ -5138,6 +5203,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-28 23:39:42"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Guillotine Warden": [
@@ -6082,6 +6152,11 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Betrayer of Urutu Freki": [
@@ -6154,6 +6229,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Ikuntai": [
@@ -6446,6 +6526,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -6758,6 +6843,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Kaysha Herald of Icarus": [
@@ -7043,6 +7133,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-30 22:39:38"
     }
   ],
   "Madness Beast": [
