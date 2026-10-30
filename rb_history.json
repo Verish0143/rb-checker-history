@@ -169,6 +169,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-28 07:48:23"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Water Spirit Lian": [
@@ -206,6 +211,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Gwindorr": [
@@ -340,6 +350,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-30 00:47:18"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Last Titan Utenus": [
@@ -683,6 +698,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-25 15:59:55"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Gordon": [
@@ -829,6 +849,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 00:47:18"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Ketra's Hero Hekaton": [
@@ -1073,6 +1098,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 00:47:18"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Cherub Galaxia": [
@@ -1105,6 +1135,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Longhorn Golkonda": [
@@ -1522,6 +1557,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -1797,6 +1837,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Plague Golem": [
@@ -2027,6 +2072,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-29 21:00:00"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Immortal Savior Mardil": [
@@ -2054,6 +2104,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-26 06:26:55"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Anakim's Nemesis Zakaron": [
@@ -2128,6 +2183,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-27 22:55:07"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -2482,6 +2542,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -2668,6 +2733,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -2871,6 +2941,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-29 02:52:50"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -3000,6 +3075,11 @@
       "level": "62",
       "state": "yes",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "62",
+      "state": "no",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -3109,6 +3189,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -3151,6 +3236,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-27 18:59:05"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -4491,6 +4581,11 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-10-29 21:00:00"
+    },
+    {
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Nellis' Vengeful Spirit": [
@@ -4764,6 +4859,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Flame Lord Shadar": [
@@ -5488,6 +5588,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Ragraman": [
@@ -5821,6 +5926,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Mammon Collector Talos": [
@@ -5915,6 +6025,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-28 23:39:42"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Princess Molrang": [
@@ -6484,6 +6599,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-30 06:33:11"
     }
   ],
   "Sukar Wererat Chief": [
