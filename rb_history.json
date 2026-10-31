@@ -608,6 +608,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-31 01:49:08"
     }
   ],
   "Hannibal": [
@@ -1168,6 +1173,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 22:39:38"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-31 01:49:08"
     }
   ],
   "Cherub Galaxia": [
@@ -1289,6 +1299,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-30 22:39:38"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-31 01:49:08"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -1333,6 +1348,11 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-10-31 01:49:08"
     }
   ],
   "Flamestone Giant": [
@@ -2118,6 +2138,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-31 01:49:08"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -2155,6 +2180,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-31 01:49:08"
     }
   ],
   "Eilhalder von Hellmann": [
@@ -4590,6 +4620,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-28 01:56:04"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-31 01:49:08"
     }
   ],
   "Icarus Sample 1": [
@@ -4767,6 +4802,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-31 01:49:08"
     }
   ],
   "Wizard of Storm Teruk": [
@@ -4865,6 +4905,11 @@
       "level": "38",
       "state": "yes",
       "timestamp": "2026-10-28 07:48:23"
+    },
+    {
+      "level": "38",
+      "state": "no",
+      "timestamp": "2026-10-31 01:49:08"
     }
   ],
   "Premo Prime": [
@@ -5119,6 +5164,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-30 22:39:38"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-31 01:49:08"
     }
   ],
   "Flame Lord Shadar": [
@@ -5772,6 +5822,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-31 01:49:08"
     }
   ],
   "Boss Akata": [
@@ -6323,6 +6378,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-31 01:49:08"
     }
   ],
   "Pan Dryad": [
@@ -6702,6 +6762,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-26 23:17:12"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-31 01:49:08"
     }
   ],
   "Kuroboros' Priest": [
