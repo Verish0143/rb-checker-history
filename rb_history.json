@@ -375,6 +375,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-30 06:33:11"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-31 07:35:10"
     }
   ],
   "Last Titan Utenus": [
@@ -1047,6 +1052,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 00:47:18"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:35:10"
     }
   ],
   "Varka's Chief Horus": [
@@ -1220,6 +1230,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:35:10"
     }
   ],
   "Longhorn Golkonda": [
@@ -1353,6 +1368,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-31 01:49:08"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-31 07:35:10"
     }
   ],
   "Flamestone Giant": [
@@ -1405,6 +1425,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-30 22:39:38"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-31 07:35:10"
     }
   ],
   "Gigantic Golem": [
@@ -1677,6 +1702,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:35:10"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -1875,6 +1905,11 @@
       "level": "74",
       "state": "no",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "74",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:35:10"
     }
   ],
   "Death Lord Hallate": [
@@ -1982,6 +2017,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:35:10"
     }
   ],
   "Plague Golem": [
@@ -2737,6 +2777,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:35:10"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -3481,6 +3526,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:35:10"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -5211,6 +5261,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-31 07:35:10"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -5467,6 +5522,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:35:10"
     }
   ],
   "Breka Warlock Pastu": [
@@ -5644,6 +5704,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-31 07:35:10"
     }
   ],
   "Vuku Grand Seer Gharmash": [
@@ -5827,6 +5892,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-31 01:49:08"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-31 07:35:10"
     }
   ],
   "Boss Akata": [
