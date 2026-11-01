@@ -942,6 +942,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -1500,6 +1505,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Gigantic Golem": [
@@ -1574,6 +1584,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-24 13:32:41"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -1948,6 +1963,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -1995,6 +2015,11 @@
       "level": "74",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "74",
+      "state": "yes",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Death Lord Hallate": [
@@ -2112,6 +2137,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Plague Golem": [
@@ -2387,6 +2417,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Immortal Savior Mardil": [
@@ -2535,6 +2570,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -2679,6 +2719,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Meanas Anor": [
@@ -2798,6 +2843,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Roaring Skylancer": [
@@ -2932,6 +2982,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -3009,6 +3064,11 @@
       "level": "69",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "69",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -3376,6 +3436,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -3448,6 +3513,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Roaring Lord Kastor": [
@@ -3726,6 +3796,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -3895,6 +3970,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Taik High Prefect Arak": [
@@ -4053,6 +4133,11 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Soulless Wild Boar": [
@@ -5068,6 +5153,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Shaman King Selu": [
@@ -5561,6 +5651,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-31 07:35:10"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -5699,6 +5794,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Remmel": [
@@ -5726,6 +5826,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Sejarr's Servitor": [
@@ -5758,6 +5863,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Soul Collector Acheron": [
@@ -5847,6 +5957,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Breka Warlock Pastu": [
@@ -5987,6 +6102,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Nurka's Messenger": [
@@ -6153,6 +6273,11 @@
       "level": "32",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "32",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Apepi": [
@@ -6160,6 +6285,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Beleth's Agent, Meana": [
@@ -6284,6 +6414,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Cat's Eye Bandit": [
@@ -6813,6 +6948,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-31 01:49:08"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Pan Dryad": [
@@ -6912,6 +7052,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Soul Scavenger": [
@@ -7311,6 +7456,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -7457,6 +7607,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ],
   "Serpent Demon Bifrons": [
@@ -7787,6 +7942,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-01 13:10:48"
     }
   ]
 }
