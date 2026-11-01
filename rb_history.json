@@ -194,6 +194,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Water Spirit Lian": [
@@ -447,6 +452,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Tully": [
@@ -546,6 +556,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Gorgolos": [
@@ -726,6 +741,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Ember": [
@@ -917,6 +937,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -1077,6 +1102,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-31 07:35:10"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Varka's Chief Horus": [
@@ -1349,6 +1379,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -1460,6 +1495,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-31 07:35:10"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Gigantic Golem": [
@@ -1903,6 +1943,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-30 22:39:38"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -2114,6 +2159,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Doom Blade Tanatos": [
@@ -2332,6 +2382,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-30 06:33:11"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Immortal Savior Mardil": [
@@ -2453,6 +2508,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -2676,6 +2736,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-27 13:39:39"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Palibati Queen Themis": [
@@ -2939,6 +3004,11 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -3301,6 +3371,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -3368,6 +3443,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-30 22:39:38"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Roaring Lord Kastor": [
@@ -3517,6 +3597,11 @@
       "level": "61",
       "state": "yes",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "61",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Ancient Drake": [
@@ -3636,6 +3721,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -3800,6 +3890,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Taik High Prefect Arak": [
@@ -3862,6 +3957,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -3948,6 +4048,11 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Soulless Wild Boar": [
@@ -4109,6 +4214,11 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-10-28 23:39:42"
+    },
+    {
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Harit Guardian Garangky": [
@@ -4249,6 +4359,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Furious Thieles": [
@@ -4283,6 +4398,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-10-25 21:17:09"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Harit Hero Tamash": [
@@ -4354,6 +4474,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-10-27 13:39:39"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Zaken's Butcher Krantz": [
@@ -4474,6 +4599,11 @@
       "level": "50",
       "state": "yes",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "50",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Carnamakos": [
@@ -4933,6 +5063,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-27 18:59:05"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Shaman King Selu": [
@@ -5559,6 +5694,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 00:31:52"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Remmel": [
@@ -5581,6 +5721,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-23 10:27:06"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Sejarr's Servitor": [
@@ -5697,6 +5842,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Breka Warlock Pastu": [
@@ -5998,6 +6148,11 @@
       "level": "32",
       "state": "no",
       "timestamp": "2026-10-28 19:48:45"
+    },
+    {
+      "level": "32",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Apepi": [
@@ -6124,6 +6279,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Cat's Eye Bandit": [
@@ -6477,6 +6637,11 @@
       "level": "26",
       "state": "yes",
       "timestamp": "2026-10-30 22:39:38"
+    },
+    {
+      "level": "26",
+      "state": "no",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Betrayer of Urutu Freki": [
@@ -7084,6 +7249,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Lead Tracker Sharuk": [
@@ -7136,6 +7306,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -7344,6 +7519,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:13:36"
     }
   ],
   "Sukar Wererat Chief": [
