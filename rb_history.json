@@ -162,6 +162,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Queen Shyeed": [
@@ -390,6 +395,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-31 07:35:10"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Last Titan Utenus": [
@@ -1342,6 +1352,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-28 01:56:04"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -1589,6 +1604,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -2020,6 +2040,11 @@
       "level": "74",
       "state": "yes",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "74",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Death Lord Hallate": [
@@ -2142,6 +2167,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Plague Golem": [
@@ -2194,6 +2224,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Doom Blade Tanatos": [
@@ -2548,6 +2583,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -2575,6 +2615,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -2724,6 +2769,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Meanas Anor": [
@@ -2786,6 +2836,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Palibati Queen Themis": [
@@ -2848,6 +2903,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Roaring Skylancer": [
@@ -2987,6 +3047,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -3213,6 +3278,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -3290,6 +3360,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -3672,6 +3747,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Ancient Drake": [
@@ -3801,6 +3881,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -4042,6 +4127,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -4094,6 +4184,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-30 00:47:18"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Abyss Brukunt": [
@@ -4138,6 +4233,11 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Soulless Wild Boar": [
@@ -4205,6 +4305,11 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -4222,6 +4327,11 @@
       "level": "58",
       "state": "yes",
       "timestamp": "2026-10-28 07:48:23"
+    },
+    {
+      "level": "58",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Timak Seer Ragoth": [
@@ -4304,6 +4414,11 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Harit Guardian Garangky": [
@@ -4488,6 +4603,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Harit Hero Tamash": [
@@ -4564,6 +4684,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Zaken's Butcher Krantz": [
@@ -4689,6 +4814,11 @@
       "level": "50",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "50",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Carnamakos": [
@@ -4850,6 +4980,11 @@
       "level": "45",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "45",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Evil Spirit Cyrion": [
@@ -5015,6 +5150,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-31 01:49:08"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Icarus Sample 1": [
@@ -5158,6 +5298,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Shaman King Selu": [
@@ -5362,6 +5507,11 @@
       "level": "38",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "38",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Rayito the Looter": [
@@ -5369,6 +5519,11 @@
       "level": "37",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "37",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Evil Spirit Tempest": [
@@ -5604,6 +5759,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-31 01:49:08"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Flame Lord Shadar": [
@@ -5777,6 +5937,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 18:55:38"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Red Eye Captain Trakia": [
@@ -5799,6 +5964,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Remmel": [
@@ -5831,6 +6001,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Sejarr's Servitor": [
@@ -6055,6 +6230,11 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Corsair Captain Kylon": [
@@ -6107,6 +6287,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Nurka's Messenger": [
@@ -6164,6 +6349,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-31 07:35:10"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Vuku Grand Seer Gharmash": [
@@ -6513,6 +6703,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Ragraman": [
@@ -6574,6 +6769,11 @@
       "level": "29",
       "state": "yes",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "29",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Partisan Leader Talakin": [
@@ -6953,6 +7153,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Pan Dryad": [
@@ -7166,6 +7371,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-30 22:39:38"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -7223,6 +7433,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-27 07:50:24"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Unrequited Kael": [
@@ -7399,6 +7614,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Lead Tracker Sharuk": [
@@ -7570,6 +7790,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -7679,6 +7904,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Sukar Wererat Chief": [
@@ -7808,6 +8038,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-30 22:39:38"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Madness Beast": [
@@ -7890,6 +8125,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ],
   "Zombie Lord Ferkel": [
@@ -7947,6 +8187,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:30:22"
     }
   ]
 }
