@@ -75,6 +75,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Darion": [
@@ -1186,6 +1191,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 00:47:18"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Varka's Hero Shadith": [
@@ -1253,6 +1263,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-31 01:49:08"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Cherub Galaxia": [
@@ -1305,6 +1320,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Longhorn Golkonda": [
@@ -1357,6 +1377,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -1572,6 +1597,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-26 13:25:50"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -1609,6 +1639,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -1626,6 +1661,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-23 22:23:24"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Death Lord Ipos": [
@@ -1817,6 +1857,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -1988,6 +2033,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -2229,6 +2279,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Doom Blade Tanatos": [
@@ -2457,6 +2512,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Immortal Savior Mardil": [
@@ -2494,6 +2554,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Anakim's Nemesis Zakaron": [
@@ -2588,6 +2653,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -2841,6 +2911,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Palibati Queen Themis": [
@@ -3134,6 +3209,11 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -3201,6 +3281,11 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Demon's Agent Falston": [
@@ -3593,6 +3678,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Roaring Lord Kastor": [
@@ -3670,6 +3760,11 @@
       "level": "62",
       "state": "no",
       "timestamp": "2026-10-30 06:33:11"
+    },
+    {
+      "level": "62",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -3809,6 +3904,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -5367,6 +5467,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-31 01:49:08"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Wizard of Storm Teruk": [
@@ -5389,6 +5494,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Leader of Cat Gang": [
@@ -5480,6 +5590,11 @@
       "level": "38",
       "state": "no",
       "timestamp": "2026-10-31 01:49:08"
+    },
+    {
+      "level": "38",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Premo Prime": [
@@ -5573,6 +5688,11 @@
       "level": "36",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "36",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Beleth's Eye": [
@@ -5712,6 +5832,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-29 21:00:00"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Fire Lord Shadar": [
@@ -5920,6 +6045,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -5969,6 +6099,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Remmel": [
@@ -6176,6 +6311,11 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Revenant of Sir Calibus": [
@@ -6468,6 +6608,11 @@
       "level": "32",
       "state": "no",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "32",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Apepi": [
@@ -6480,6 +6625,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Beleth's Agent, Meana": [
@@ -6609,6 +6759,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Cat's Eye Bandit": [
@@ -7054,6 +7209,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-30 22:39:38"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Ikuntai": [
@@ -7101,6 +7261,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Mammon Collector Talos": [
@@ -7262,6 +7427,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Soul Scavenger": [
@@ -7837,6 +8007,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Serpent Demon Bifrons": [
@@ -8043,6 +8218,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-02 08:10:57"
     }
   ],
   "Madness Beast": [
