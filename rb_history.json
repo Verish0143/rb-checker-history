@@ -187,6 +187,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Queen Shyeed": [
@@ -308,6 +313,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-25 12:02:39"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Hekaton Prime": [
@@ -1266,6 +1276,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Varka's Hero Shadith": [
@@ -1588,6 +1603,11 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-03 01:04:43"
+    },
+    {
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Flamestone Giant": [
@@ -3571,6 +3591,11 @@
       "level": "67",
       "state": "yes",
       "timestamp": "2026-11-02 08:10:57"
+    },
+    {
+      "level": "67",
+      "state": "no",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Demon's Agent Falston": [
@@ -3653,6 +3678,11 @@
       "level": "66",
       "state": "yes",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "66",
+      "state": "no",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -3891,6 +3921,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-01 13:10:48"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -4060,6 +4095,11 @@
       "level": "62",
       "state": "yes",
       "timestamp": "2026-11-02 08:10:57"
+    },
+    {
+      "level": "62",
+      "state": "no",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -4214,6 +4254,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-03 01:04:43"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -4291,6 +4336,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -4869,6 +4919,11 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Harit Guardian Garangky": [
@@ -5063,6 +5118,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-11-03 01:04:43"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Harit Hero Tamash": [
@@ -5445,6 +5505,11 @@
       "level": "45",
       "state": "no",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "45",
+      "state": "yes",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Evil Spirit Cyrion": [
@@ -5736,6 +5801,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Road Scavenger Leader": [
@@ -6314,6 +6384,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Flame Lord Shadar": [
@@ -6428,6 +6503,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Guillotine Warden": [
@@ -6875,6 +6955,11 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-03 07:49:34"
+    },
+    {
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Corsair Captain Kylon": [
@@ -6932,6 +7017,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Nurka's Messenger": [
@@ -7133,6 +7223,11 @@
       "level": "32",
       "state": "no",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "32",
+      "state": "yes",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Apepi": [
@@ -8362,6 +8457,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-03 21:14:20"
     }
   ],
   "Kuroboros' Priest": [
