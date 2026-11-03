@@ -482,6 +482,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Tully": [
@@ -771,6 +776,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Ember": [
@@ -1345,6 +1355,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-02 08:10:57"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Longhorn Golkonda": [
@@ -1402,6 +1417,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-02 08:10:57"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -1508,6 +1528,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Flamestone Giant": [
@@ -1959,6 +1984,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Menacing Palatanos": [
@@ -2093,6 +2123,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -2765,6 +2800,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -3068,6 +3108,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Roaring Skylancer": [
@@ -3994,6 +4039,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-02 08:10:57"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -4255,6 +4305,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Taik High Prefect Arak": [
@@ -4532,6 +4587,11 @@
       "level": "58",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "58",
+      "state": "yes",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Timak Seer Ragoth": [
@@ -4808,6 +4868,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Harit Hero Tamash": [
@@ -5429,6 +5494,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Nakondas": [
@@ -5592,6 +5662,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-02 08:10:57"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Wizard of Storm Teruk": [
@@ -5619,6 +5694,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-02 08:10:57"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Leader of Cat Gang": [
@@ -6217,6 +6297,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Red Eye Captain Trakia": [
@@ -6731,6 +6816,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -6991,6 +7081,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Giant Wasteland Basilisk": [
@@ -7048,6 +7143,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Ragraman": [
@@ -7114,6 +7214,11 @@
       "level": "29",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "29",
+      "state": "yes",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Partisan Leader Talakin": [
@@ -7689,6 +7794,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Zombie Lord Crowl": [
@@ -7890,6 +8000,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Greyclaw Kutus": [
@@ -8185,6 +8300,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -8232,6 +8352,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-02 08:10:57"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Serpent Demon Bifrons": [
@@ -8304,6 +8429,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Sukar Wererat Chief": [
@@ -8443,6 +8573,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-02 08:10:57"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Madness Beast": [
@@ -8535,6 +8670,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ],
   "Zombie Lord Ferkel": [
@@ -8597,6 +8737,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-03 01:04:43"
     }
   ]
 }
