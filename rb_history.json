@@ -1143,6 +1143,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Sailren": [
@@ -1222,6 +1227,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-04 07:36:14"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Varka's Chief Horus": [
@@ -1767,6 +1777,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -1933,6 +1948,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-04 07:36:14"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Death Lord Shax": [
@@ -2082,6 +2102,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-04 07:36:14"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -2139,6 +2164,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Menacing Palatanos": [
@@ -2656,6 +2686,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-04 01:23:19"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Vanor Chief Kandra": [
@@ -3015,6 +3050,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-03 01:04:43"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -3092,6 +3132,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-31 13:50:22"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Korim": [
@@ -3579,6 +3624,11 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -3656,6 +3706,11 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Demon's Agent Falston": [
@@ -3991,6 +4046,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -4406,6 +4466,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -4508,6 +4573,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-04 01:23:19"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Lord Ishka": [
@@ -4610,6 +4680,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-04 07:36:14"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Taik High Prefect Arak": [
@@ -4754,6 +4829,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Abyss Brukunt": [
@@ -4781,6 +4861,11 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-10-26 06:26:55"
+    },
+    {
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Demon Kuri": [
@@ -5041,6 +5126,11 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-10-29 15:59:52"
+    },
+    {
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Refugee Applicant Leo": [
@@ -5078,6 +5168,11 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-10-29 21:00:00"
+    },
+    {
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Bandit Leader Barda": [
@@ -5095,6 +5190,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-10-26 19:27:22"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Enchanted Forest Watcher Ruell": [
@@ -5203,6 +5303,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Harit Hero Tamash": [
@@ -5284,6 +5389,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Zaken's Butcher Krantz": [
@@ -5311,6 +5421,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-10-26 06:26:55"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Paniel the Unicorn": [
@@ -5604,6 +5719,11 @@
       "level": "45",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "45",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Iron Giant Totem": [
@@ -5943,6 +6063,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Shaman King Selu": [
@@ -6180,6 +6305,11 @@
       "level": "38",
       "state": "yes",
       "timestamp": "2026-11-04 07:36:14"
+    },
+    {
+      "level": "38",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Premo Prime": [
@@ -6350,6 +6480,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-29 21:00:00"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Chertuba of Great Soul": [
@@ -7380,6 +7515,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Beleth's Agent, Meana": [
@@ -7677,6 +7817,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Elf Renoa": [
@@ -7838,6 +7983,11 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-10-30 18:42:35"
+    },
+    {
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Patriarch Kuroboros": [
@@ -8034,6 +8184,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Ikuntai": [
@@ -8344,6 +8499,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-03 07:49:34"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Zombie Lord Crowl": [
@@ -8406,6 +8566,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -8617,6 +8782,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-04 01:23:19"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Kuroboros' Priest": [
@@ -8803,6 +8973,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-04 07:36:14"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Kaysha Herald of Icarus": [
@@ -8885,6 +9060,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-04 01:23:19"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -9019,6 +9199,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-03 07:49:34"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Sukar Wererat Chief": [
@@ -9178,6 +9363,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Madness Beast": [
@@ -9280,6 +9470,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ],
   "Zombie Lord Ferkel": [
@@ -9352,6 +9547,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-04 15:43:46"
     }
   ]
 }
