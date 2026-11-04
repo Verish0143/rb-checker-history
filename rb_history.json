@@ -821,6 +821,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-03 07:49:34"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Ember": [
@@ -1148,6 +1153,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-04 15:43:46"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Sailren": [
@@ -1532,6 +1542,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-03 07:49:34"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -1579,6 +1594,11 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -1782,6 +1802,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-04 15:43:46"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -2169,6 +2194,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-04 15:43:46"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Menacing Palatanos": [
@@ -3055,6 +3085,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-04 15:43:46"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -3137,6 +3172,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-04 15:43:46"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Korim": [
@@ -3629,6 +3669,11 @@
       "level": "69",
       "state": "yes",
       "timestamp": "2026-11-04 15:43:46"
+    },
+    {
+      "level": "69",
+      "state": "no",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -3711,6 +3756,11 @@
       "level": "67",
       "state": "yes",
       "timestamp": "2026-11-04 15:43:46"
+    },
+    {
+      "level": "67",
+      "state": "no",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Demon's Agent Falston": [
@@ -3798,6 +3848,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -3890,6 +3945,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-04 07:36:14"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -4051,6 +4111,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-04 15:43:46"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -4384,6 +4449,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -4471,6 +4541,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-04 15:43:46"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -4767,6 +4842,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-04 07:36:14"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -6758,6 +6838,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Guillotine Warden": [
@@ -8504,6 +8589,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-04 15:43:46"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-04 21:30:31"
     }
   ],
   "Zombie Lord Crowl": [
