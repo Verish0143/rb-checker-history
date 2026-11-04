@@ -318,6 +318,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-04 01:23:19"
     }
   ],
   "Hekaton Prime": [
@@ -611,6 +616,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-04 01:23:19"
     }
   ],
   "Gorgolos": [
@@ -1281,6 +1291,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-04 01:23:19"
     }
   ],
   "Varka's Hero Shadith": [
@@ -1608,6 +1623,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-04 01:23:19"
     }
   ],
   "Flamestone Giant": [
@@ -2305,6 +2325,11 @@
       "level": "74",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "74",
+      "state": "yes",
+      "timestamp": "2026-11-04 01:23:19"
     }
   ],
   "Death Lord Hallate": [
@@ -2596,6 +2621,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-04 01:23:19"
     }
   ],
   "Vanor Chief Kandra": [
@@ -4438,6 +4468,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-03 07:49:34"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-04 01:23:19"
     }
   ],
   "Lord Ishka": [
@@ -6043,6 +6078,11 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-11-03 07:49:34"
+    },
+    {
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-11-04 01:23:19"
     }
   ],
   "Lizardmen Leader Hellion": [
@@ -6389,6 +6429,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-04 01:23:19"
     }
   ],
   "Flame Lord Shadar": [
@@ -6580,6 +6625,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-04 01:23:19"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -7946,6 +7996,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-04 01:23:19"
     }
   ],
   "Mammon Collector Talos": [
@@ -8462,6 +8517,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-04 01:23:19"
     }
   ],
   "Kuroboros' Priest": [
@@ -8720,6 +8780,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-03 07:49:34"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-04 01:23:19"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -8926,6 +8991,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-04 01:23:19"
     }
   ],
   "Discarded Guardian": [
