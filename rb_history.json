@@ -826,6 +826,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-04 21:30:31"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Ember": [
@@ -1475,6 +1480,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-04 07:36:14"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Longhorn Golkonda": [
@@ -1547,6 +1557,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-04 21:30:31"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -1864,6 +1879,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -2132,6 +2152,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-04 15:43:46"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -3264,6 +3289,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Meanas Anor": [
@@ -3572,6 +3602,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -4203,6 +4238,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-03 07:49:34"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Roaring Lord Kastor": [
@@ -5169,6 +5209,11 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Harit Guardian Garangky": [
@@ -5856,6 +5901,11 @@
       "level": "44",
       "state": "yes",
       "timestamp": "2026-10-20 18:41:05"
+    },
+    {
+      "level": "44",
+      "state": "no",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Rotting Tree Repiro": [
@@ -6091,6 +6141,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Road Scavenger Leader": [
@@ -6348,6 +6403,11 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-11-04 01:23:19"
+    },
+    {
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Lizardmen Leader Hellion": [
@@ -6390,6 +6450,11 @@
       "level": "38",
       "state": "no",
       "timestamp": "2026-11-04 15:43:46"
+    },
+    {
+      "level": "38",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Premo Prime": [
@@ -7300,6 +7365,11 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Corsair Captain Kylon": [
@@ -8805,6 +8875,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-11-03 01:04:43"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:43:48"
     }
   ],
   "Greyclaw Kutus": [
