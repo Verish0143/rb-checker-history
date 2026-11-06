@@ -207,6 +207,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Queen Shyeed": [
@@ -301,6 +306,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-30 13:27:01"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Gwindorr": [
@@ -353,6 +363,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Hekaton Prime": [
@@ -807,6 +822,11 @@
       "level": "81",
       "state": "yes",
       "timestamp": "2026-10-28 07:48:23"
+    },
+    {
+      "level": "81",
+      "state": "no",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Anakim": [
@@ -1362,6 +1382,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Varka's Chief Horus": [
@@ -2991,6 +3016,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-05 16:43:08"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Vanor Chief Kandra": [
@@ -3058,6 +3088,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-05 16:43:08"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -3197,6 +3232,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Immortal Savior Mardil": [
@@ -4084,6 +4124,11 @@
       "level": "69",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "69",
+      "state": "no",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -4171,6 +4216,11 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-11-04 21:30:31"
+    },
+    {
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Demon's Agent Falston": [
@@ -4653,6 +4703,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Roaring Lord Kastor": [
@@ -4929,6 +4984,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -5347,6 +5407,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-06 02:35:57"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -6455,6 +6520,11 @@
       "level": "44",
       "state": "no",
       "timestamp": "2026-11-06 02:35:57"
+    },
+    {
+      "level": "44",
+      "state": "yes",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Timak Orc Chief Ranger": [
@@ -6963,6 +7033,11 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Lizardmen Leader Hellion": [
@@ -7518,6 +7593,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Guillotine Warden": [
@@ -7800,6 +7880,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Tasaba Patriarch Hellena": [
@@ -7926,6 +8011,11 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Revenant of Sir Calibus": [
@@ -9223,6 +9313,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-05 16:43:08"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Pan Dryad": [
@@ -9300,6 +9395,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Princess Molrang": [
@@ -9496,6 +9596,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-05 16:43:08"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -10209,6 +10314,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Sukar Wererat Chief": [
@@ -10510,6 +10620,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ],
   "Zombie Lord Ferkel": [
@@ -10597,6 +10712,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-05 16:43:08"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-06 21:59:59"
     }
   ]
 }
