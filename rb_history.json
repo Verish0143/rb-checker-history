@@ -311,6 +311,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-06 21:59:59"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Gwindorr": [
@@ -577,6 +582,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Tully": [
@@ -701,6 +711,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Gorgolos": [
@@ -1471,6 +1486,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-04 01:23:19"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Varka's Hero Shadith": [
@@ -3021,6 +3041,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-06 21:59:59"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Vanor Chief Kandra": [
@@ -3093,6 +3118,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-06 21:59:59"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -3547,6 +3577,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-05 16:43:08"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Korim": [
@@ -3649,6 +3684,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Meanas Anor": [
@@ -4318,6 +4358,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -5479,6 +5524,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-04 15:43:46"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Abyss Brukunt": [
@@ -5759,6 +5809,11 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-11-05 16:43:08"
+    },
+    {
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Harit Guardian Garangky": [
@@ -6136,6 +6191,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Paniel the Unicorn": [
@@ -6571,6 +6631,11 @@
       "level": "43",
       "state": "no",
       "timestamp": "2026-11-06 02:35:57"
+    },
+    {
+      "level": "43",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Retreat Spider Cletu": [
@@ -6991,6 +7056,11 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Nellis' Vengeful Spirit": [
@@ -7377,6 +7447,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Fire Lord Shadar": [
@@ -7526,6 +7601,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -7685,6 +7765,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-05 16:43:08"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -7717,6 +7802,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Red Eye Captain Trakia": [
@@ -8053,6 +8143,11 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Stakato Queen Zyrnna": [
@@ -8182,6 +8277,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Nurka's Messenger": [
@@ -8259,6 +8359,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Vuku Grand Seer Gharmash": [
@@ -8418,6 +8523,11 @@
       "level": "32",
       "state": "no",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "32",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Apepi": [
@@ -9991,6 +10101,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:47:01"
     }
   ],
   "Tracker Leader Sharuk": [
