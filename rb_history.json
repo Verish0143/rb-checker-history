@@ -85,6 +85,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Darion": [
@@ -848,6 +853,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Hannibal": [
@@ -877,6 +887,11 @@
       "level": "81",
       "state": "no",
       "timestamp": "2026-11-06 21:59:59"
+    },
+    {
+      "level": "81",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Anakim": [
@@ -981,6 +996,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-06 02:35:57"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Ember": [
@@ -1105,6 +1125,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 22:39:38"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -1271,6 +1296,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Lilith": [
@@ -1720,6 +1750,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Longhorn Golkonda": [
@@ -2035,6 +2070,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-05 16:43:08"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Gigantic Golem": [
@@ -2303,6 +2343,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Death Lord Shax": [
@@ -3054,6 +3099,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Doom Blade Tanatos": [
@@ -3161,6 +3211,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-07 01:47:01"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Vanor Chief Kandra": [
@@ -3238,6 +3293,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-07 01:47:01"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -3563,6 +3623,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -3620,6 +3685,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -3834,6 +3904,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-07 01:47:01"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Meanas Anor": [
@@ -4095,6 +4170,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Shilen's Messenger Cabrio": [
@@ -4344,6 +4424,11 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-11-06 21:59:59"
+    },
+    {
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -4655,6 +4740,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -5152,6 +5242,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Ancient Drake": [
@@ -5239,6 +5334,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-06 21:59:59"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -9348,6 +9448,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Patriarch Kuroboros": [
@@ -10242,6 +10347,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-06 02:35:57"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Kuroboros' Priest": [
@@ -10381,6 +10491,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-07 01:47:01"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -10709,6 +10824,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-06 21:59:59"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Sukar Wererat Chief": [
@@ -10791,6 +10911,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Discarded Guardian": [
@@ -10893,6 +11018,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-07 18:56:55"
     }
   ],
   "Madness Beast": [
