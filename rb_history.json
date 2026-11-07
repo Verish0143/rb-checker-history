@@ -90,6 +90,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-07 18:56:55"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-07 22:28:06"
     }
   ],
   "Darion": [
@@ -510,6 +515,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-07 22:28:06"
     }
   ],
   "Last Titan Utenus": [
@@ -746,6 +756,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-07 22:28:06"
     }
   ],
   "Gorgolos": [
@@ -858,6 +873,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-07 18:56:55"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-07 22:28:06"
     }
   ],
   "Hannibal": [
@@ -1130,6 +1150,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-07 18:56:55"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-07 22:28:06"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -4113,6 +4138,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-07 22:28:06"
     }
   ],
   "Roaring Skylancer": [
@@ -4526,6 +4556,11 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-11-07 07:49:37"
+    },
+    {
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-11-07 22:28:06"
     }
   ],
   "Demon's Agent Falston": [
@@ -10558,6 +10593,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-07 22:28:06"
     }
   ],
   "Kaysha Herald of Icarus": [
@@ -10660,6 +10700,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-07 22:28:06"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -11242,6 +11287,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-06 21:59:59"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-07 22:28:06"
     }
   ]
 }
