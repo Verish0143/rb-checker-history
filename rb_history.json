@@ -95,6 +95,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-07 22:28:06"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Darion": [
@@ -227,6 +232,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-08 01:45:16"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Queen Shyeed": [
@@ -279,6 +289,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-08 07:59:45"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Water Spirit Lian": [
@@ -1562,6 +1577,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-08 07:59:45"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Varka's Chief Horus": [
@@ -1594,6 +1614,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-08 07:59:45"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Varka's Commander Mos": [
@@ -1830,6 +1855,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-07 18:56:55"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Longhorn Golkonda": [
@@ -2336,6 +2366,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Death Lord Ipos": [
@@ -3117,6 +3152,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-08 01:45:16"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Plague Golem": [
@@ -3413,6 +3453,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-07 18:56:55"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -3572,6 +3617,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-08 07:59:45"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Immortal Savior Mardil": [
@@ -3922,6 +3972,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Korim": [
@@ -4034,6 +4089,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-07 18:56:55"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Meanas Anor": [
@@ -4310,6 +4370,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-07 18:56:55"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Shilen's Messenger Cabrio": [
@@ -5636,6 +5701,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -6059,6 +6129,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Abyss Brukunt": [
@@ -6468,6 +6543,11 @@
       "level": "56",
       "state": "no",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "56",
+      "state": "yes",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Bandit Leader Barda": [
@@ -6756,6 +6836,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Paniel the Unicorn": [
@@ -7930,6 +8015,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Chertuba of Great Soul": [
@@ -8109,6 +8199,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Flame Lord Shadar": [
@@ -8181,6 +8276,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-07 01:47:01"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -8790,6 +8890,11 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Corsair Captain Kylon": [
@@ -9036,6 +9141,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -9108,6 +9218,11 @@
       "level": "32",
       "state": "yes",
       "timestamp": "2026-11-07 01:47:01"
+    },
+    {
+      "level": "32",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Apepi": [
@@ -9356,6 +9471,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Giant Wasteland Basilisk": [
@@ -9591,6 +9711,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Tirak": [
@@ -9864,6 +9989,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-05 22:19:04"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Ikuntai": [
@@ -9936,6 +10066,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Mammon Collector Talos": [
@@ -10095,6 +10230,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-06 21:59:59"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Princess Molrang": [
@@ -10224,6 +10364,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-08 01:45:16"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Zombie Lord Crowl": [
@@ -10383,6 +10528,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Unrequited Kael": [
@@ -10475,6 +10625,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Greyclaw Kutus": [
@@ -10773,6 +10928,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-07 22:28:06"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Kaysha Herald of Icarus": [
@@ -11049,6 +11209,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-07 18:56:55"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-08 14:59:30"
     }
   ],
   "Sukar Wererat Chief": [
