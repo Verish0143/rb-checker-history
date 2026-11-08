@@ -100,6 +100,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Darion": [
@@ -550,6 +555,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-08 01:45:16"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Last Titan Utenus": [
@@ -647,6 +657,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-07 07:49:37"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Tully": [
@@ -1686,6 +1701,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-07 07:49:37"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Varka's Hero Shadith": [
@@ -1860,6 +1880,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Longhorn Golkonda": [
@@ -2371,6 +2396,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Death Lord Ipos": [
@@ -3525,6 +3555,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Eilhalder von Hellmann": [
@@ -5156,6 +5191,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-08 07:59:45"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -5278,6 +5318,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-08 07:59:45"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Roaring Lord Kastor": [
@@ -5589,6 +5634,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-08 07:59:45"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -5706,6 +5756,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -5950,6 +6005,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Taik High Prefect Arak": [
@@ -6052,6 +6112,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -6434,6 +6499,11 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Harit Guardian Garangky": [
@@ -10933,6 +11003,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Kaysha Herald of Icarus": [
@@ -11301,6 +11376,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-07 18:56:55"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-08 19:28:56"
     }
   ],
   "Discarded Guardian": [
