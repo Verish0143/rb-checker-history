@@ -247,6 +247,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-08 23:04:09"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Queen Shyeed": [
@@ -836,6 +841,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-08 23:04:09"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Gorgolos": [
@@ -1235,6 +1245,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-07 22:28:06"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -1332,6 +1347,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -1369,6 +1389,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-06 09:48:11"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Ketra's Hero Hekaton": [
@@ -2409,6 +2434,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-08 23:04:09"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -2757,6 +2787,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-09 02:34:45"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -2896,6 +2931,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-08 23:04:09"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Storm Winged Naga": [
@@ -3008,6 +3048,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-08 23:04:09"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -3262,6 +3307,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-09 02:34:45"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Plague Golem": [
@@ -3481,6 +3531,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-08 07:59:45"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Vanor Chief Kandra": [
@@ -3568,6 +3623,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -4097,6 +4157,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Korim": [
@@ -4219,6 +4284,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-09 02:34:45"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Meanas Anor": [
@@ -4326,6 +4396,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Palibati Queen Themis": [
@@ -4764,6 +4839,11 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-11-08 07:59:45"
+    },
+    {
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -5301,6 +5381,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-08 19:28:56"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -5871,6 +5956,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-08 19:28:56"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -6120,6 +6210,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-08 19:28:56"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Taik High Prefect Arak": [
@@ -6309,6 +6404,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Abyss Brukunt": [
@@ -6614,6 +6714,11 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-11-08 19:28:56"
+    },
+    {
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Harit Guardian Garangky": [
@@ -6671,6 +6776,11 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-11-08 07:59:45"
+    },
+    {
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Refugee Applicant Leo": [
@@ -6728,6 +6838,11 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Bandit Leader Barda": [
@@ -7021,6 +7136,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Paniel the Unicorn": [
@@ -8205,6 +8325,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Chertuba of Great Soul": [
@@ -8389,6 +8514,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Flame Lord Shadar": [
@@ -8466,6 +8596,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -9080,6 +9215,11 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Corsair Captain Kylon": [
@@ -9408,6 +9548,11 @@
       "level": "32",
       "state": "no",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "32",
+      "state": "yes",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Apepi": [
@@ -9973,6 +10118,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-11-09 02:34:45"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Patriarch Kuroboros": [
@@ -10266,6 +10416,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-09 02:34:45"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Mammon Collector Talos": [
@@ -10435,6 +10590,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-08 23:04:09"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Princess Molrang": [
@@ -10835,6 +10995,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-11-09 02:34:45"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Greyclaw Kutus": [
@@ -10927,6 +11092,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-08 23:04:09"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Kuroboros' Priest": [
@@ -11076,6 +11246,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-08 23:04:09"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -11531,6 +11706,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-08 19:28:56"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-09 10:14:19"
     }
   ],
   "Discarded Guardian": [
