@@ -595,6 +595,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Last Titan Utenus": [
@@ -998,6 +1003,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Hannibal": [
@@ -1151,6 +1161,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Ember": [
@@ -3056,6 +3071,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-10 10:58:44"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Storm Winged Naga": [
@@ -3265,6 +3285,11 @@
       "level": "74",
       "state": "yes",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "74",
+      "state": "no",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Death Lord Hallate": [
@@ -3803,6 +3828,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -5196,6 +5226,11 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Demon's Agent Falston": [
@@ -5440,6 +5475,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -5646,6 +5686,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -5997,6 +6042,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-11-08 07:59:45"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Ancient Drake": [
@@ -7163,6 +7213,11 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Bandit Leader Barda": [
@@ -7244,6 +7299,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-11-01 00:13:36"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Furious Thieles": [
@@ -9135,6 +9195,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -9246,6 +9311,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Sejarr's Servitor": [
@@ -9345,6 +9415,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-10 10:58:44"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Tasaba Patriarch Hellena": [
@@ -9610,6 +9685,11 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Corsair Captain Kylon": [
@@ -10149,6 +10229,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Cat's Eye Bandit": [
@@ -10958,6 +11043,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Pan Dryad": [
@@ -11070,6 +11160,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Princess Molrang": [
@@ -12022,6 +12117,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Serpent Demon Bifrons": [
@@ -12134,6 +12234,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Sukar Wererat Chief": [
@@ -12231,6 +12336,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-09 10:14:19"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Discarded Guardian": [
@@ -12343,6 +12453,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-09 02:34:45"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Madness Beast": [
@@ -12475,6 +12590,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-08 07:59:45"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-10 23:41:05"
     }
   ],
   "Zombie Lord Ferkel": [
