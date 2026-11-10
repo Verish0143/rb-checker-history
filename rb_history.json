@@ -252,6 +252,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-09 10:14:19"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Queen Shyeed": [
@@ -697,6 +702,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Tully": [
@@ -1382,6 +1392,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -1434,6 +1449,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Ketra's Hero Hekaton": [
@@ -2174,6 +2194,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -2407,6 +2432,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -3006,6 +3036,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Storm Winged Naga": [
@@ -3392,6 +3427,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Plague Golem": [
@@ -3504,6 +3544,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Doom Blade Tanatos": [
@@ -3636,6 +3681,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Vanor Chief Kandra": [
@@ -3810,6 +3860,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Eilhalder von Hellmann": [
@@ -4414,6 +4469,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Meanas Anor": [
@@ -4710,6 +4770,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Shilen's Messenger Cabrio": [
@@ -6400,6 +6465,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-09 10:14:19"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Taik High Prefect Arak": [
@@ -8647,6 +8717,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-07 01:47:01"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Fire Lord Shadar": [
@@ -8903,6 +8978,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-06 21:59:59"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Guillotine Warden": [
@@ -9205,6 +9285,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-06 21:59:59"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Tasaba Patriarch Hellena": [
@@ -9383,6 +9468,11 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-07 01:47:01"
+    },
+    {
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Stakato Queen Zyrnna": [
@@ -9716,6 +9806,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -9922,6 +10017,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-06 16:58:05"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Boss Akata": [
@@ -10604,6 +10704,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Ikuntai": [
@@ -11551,6 +11656,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -11633,6 +11743,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-10 10:58:44"
     }
   ],
   "Kaysha Herald of Icarus": [
