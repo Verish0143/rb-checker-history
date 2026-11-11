@@ -727,6 +727,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-11 03:01:57"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Tully": [
@@ -896,6 +901,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-11 03:01:57"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Gorgolos": [
@@ -1447,6 +1457,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-11 03:01:57"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -1799,6 +1814,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Varka's Commander Mos": [
@@ -1881,6 +1901,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-11 03:01:57"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Varka's Hero Shadith": [
@@ -2172,6 +2197,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-11 03:01:57"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -2760,6 +2790,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Kernon": [
@@ -2952,6 +2987,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-11 03:01:57"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -3111,6 +3151,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-10 23:41:05"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Storm Winged Naga": [
@@ -3517,6 +3562,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-11 03:01:57"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Plague Golem": [
@@ -3776,6 +3826,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-11 03:01:57"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Vanor Chief Kandra": [
@@ -3878,6 +3933,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-10 23:41:05"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -4131,6 +4191,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Beast Lord Behemoth": [
@@ -4320,6 +4385,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -5154,6 +5224,11 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -5393,6 +5468,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -5980,6 +6060,11 @@
       "level": "62",
       "state": "no",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "62",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -6722,6 +6807,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -7349,6 +7439,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-11-10 23:41:05"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Furious Thieles": [
@@ -8461,6 +8556,11 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Nellis' Vengeful Spirit": [
@@ -8570,6 +8670,11 @@
       "level": "38",
       "state": "no",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "38",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Premo Prime": [
@@ -8984,6 +9089,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-11 03:01:57"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Flame Lord Shadar": [
@@ -9255,6 +9365,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-10 23:41:05"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -9904,6 +10019,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Vuku Grand Seer Gharmash": [
@@ -10011,6 +10131,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -10222,6 +10347,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-10 10:58:44"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Boss Akata": [
@@ -10448,6 +10578,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Ragraman": [
@@ -10919,6 +11054,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-10 10:58:44"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Ikuntai": [
@@ -11011,6 +11151,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Mammon Collector Talos": [
@@ -11220,6 +11365,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-10 23:41:05"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Princess Molrang": [
@@ -11538,6 +11688,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-11-11 03:01:57"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Unrequited Kael": [
@@ -12115,6 +12270,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-11 03:01:57"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -12304,6 +12464,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-10 23:41:05"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Sukar Wererat Chief": [
@@ -12406,6 +12571,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-10 23:41:05"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-11 10:41:12"
     }
   ],
   "Discarded Guardian": [
