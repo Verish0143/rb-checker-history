@@ -600,6 +600,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-10 23:41:05"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-11 03:01:57"
     }
   ],
   "Last Titan Utenus": [
@@ -717,6 +722,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-10 10:58:44"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-11 03:01:57"
     }
   ],
   "Tully": [
@@ -881,6 +891,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-09 10:14:19"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-11 03:01:57"
     }
   ],
   "Gorgolos": [
@@ -1427,6 +1442,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-10 10:58:44"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-11 03:01:57"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -1856,6 +1876,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-08 23:04:09"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-11 03:01:57"
     }
   ],
   "Varka's Hero Shadith": [
@@ -2142,6 +2167,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-08 07:59:45"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-11 03:01:57"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -2917,6 +2947,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-09 10:14:19"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-11 03:01:57"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -3477,6 +3512,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-10 10:58:44"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-11 03:01:57"
     }
   ],
   "Plague Golem": [
@@ -3731,6 +3771,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-10 10:58:44"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-11 03:01:57"
     }
   ],
   "Vanor Chief Kandra": [
@@ -8934,6 +8979,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-11 03:01:57"
     }
   ],
   "Flame Lord Shadar": [
@@ -9021,6 +9071,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-11 03:01:57"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -11478,6 +11533,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-11 03:01:57"
     }
   ],
   "Unrequited Kael": [
@@ -12050,6 +12110,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-11 03:01:57"
     }
   ],
   "Malex Herald of Dagoniel": [
