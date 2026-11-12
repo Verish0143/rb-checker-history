@@ -381,6 +381,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Gwindorr": [
@@ -1093,6 +1098,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-12 07:37:54"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Hannibal": [
@@ -1395,6 +1405,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -1584,6 +1599,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Ketra's Hero Hekaton": [
@@ -2068,6 +2088,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Cherub Galaxia": [
@@ -2394,6 +2419,11 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-12 00:31:14"
+    },
+    {
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -2406,6 +2436,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Last Lesser Giant Glaki": [
@@ -2734,6 +2769,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-09 10:14:19"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -2898,6 +2938,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Death Lord Shax": [
@@ -3296,6 +3341,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Storm Winged Naga": [
@@ -4185,6 +4235,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Eilhalder von Hellmann": [
@@ -4371,6 +4426,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-12 00:31:14"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Beast Lord Behemoth": [
@@ -4488,6 +4548,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-08 07:59:45"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -4824,6 +4889,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-10 10:58:44"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Meanas Anor": [
@@ -5434,6 +5504,11 @@
       "level": "69",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "69",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -5693,6 +5768,11 @@
       "level": "66",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "66",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -6178,6 +6258,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-12 07:37:54"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Roaring Lord Kastor": [
@@ -6539,6 +6624,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-12 07:37:54"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -6676,6 +6766,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-12 07:37:54"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -6803,6 +6898,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Lord Ishka": [
@@ -6955,6 +7055,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-12 00:31:14"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Taik High Prefect Arak": [
@@ -7087,6 +7192,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-12 07:37:54"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -7345,6 +7455,11 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-11-12 00:31:14"
+    },
+    {
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -9831,6 +9946,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-10 23:41:05"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Sejarr's Servitor": [
@@ -10302,6 +10422,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-07 01:47:01"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Nurka's Messenger": [
@@ -10516,6 +10641,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-11 18:03:48"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -11064,6 +11194,11 @@
       "level": "29",
       "state": "yes",
       "timestamp": "2026-11-03 01:04:43"
+    },
+    {
+      "level": "29",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Partisan Leader Talakin": [
@@ -11161,6 +11296,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Tirak": [
@@ -11238,6 +11378,11 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-11-09 10:14:19"
+    },
+    {
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Patriarch Kuroboros": [
@@ -11305,6 +11450,11 @@
       "level": "26",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "26",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Tiger Hornet": [
@@ -11352,6 +11502,11 @@
       "level": "26",
       "state": "yes",
       "timestamp": "2026-11-03 15:29:54"
+    },
+    {
+      "level": "26",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Betrayer of Urutu Freki": [
@@ -11872,6 +12027,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-12 07:37:54"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Soul Scavenger": [
@@ -13345,6 +13505,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-12 07:37:54"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-12 22:15:55"
     }
   ],
   "Zombie Lord Ferkel": [
