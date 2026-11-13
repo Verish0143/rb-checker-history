@@ -635,6 +635,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-12 07:37:54"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Last Titan Utenus": [
@@ -1651,6 +1656,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-13 02:39:07"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Lilith": [
@@ -2826,6 +2836,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-08 19:28:56"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Death Lord Ipos": [
@@ -3914,6 +3929,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-13 02:39:07"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Doom Blade Tanatos": [
@@ -4061,6 +4081,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-11 10:41:12"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Vanor Chief Kandra": [
@@ -4655,6 +4680,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-12 00:31:14"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -5220,6 +5250,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Shilen's Messenger Cabrio": [
@@ -7644,6 +7679,11 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-11-09 10:14:19"
+    },
+    {
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Harit Guardian Garangky": [
@@ -9125,6 +9165,11 @@
       "level": "38",
       "state": "no",
       "timestamp": "2026-11-11 18:03:48"
+    },
+    {
+      "level": "38",
+      "state": "yes",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Premo Prime": [
@@ -9179,6 +9224,11 @@
       "level": "37",
       "state": "no",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "37",
+      "state": "yes",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Evil Spirit Tempest": [
@@ -9944,6 +9994,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Remmel": [
@@ -12664,6 +12719,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-12 00:31:14"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Lead Tracker Sharuk": [
@@ -13306,6 +13366,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Discarded Guardian": [
@@ -13423,6 +13488,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-10 23:41:05"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Madness Beast": [
@@ -13575,6 +13645,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ],
   "Zombie Lord Ferkel": [
@@ -13697,6 +13772,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-13 02:39:07"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-13 09:59:28"
     }
   ]
 }
