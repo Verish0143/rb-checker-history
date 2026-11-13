@@ -640,6 +640,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-13 09:59:28"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Last Titan Utenus": [
@@ -2799,6 +2804,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -2841,6 +2851,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-13 09:59:28"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Death Lord Ipos": [
@@ -2973,6 +2988,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Death Lord Shax": [
@@ -4086,6 +4106,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-13 09:59:28"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Vanor Chief Kandra": [
@@ -4285,6 +4310,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Eilhalder von Hellmann": [
@@ -4476,6 +4506,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Beast Lord Behemoth": [
@@ -4598,6 +4633,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -4685,6 +4725,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-13 09:59:28"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -4944,6 +4989,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Meanas Anor": [
@@ -5696,6 +5746,11 @@
       "level": "67",
       "state": "yes",
       "timestamp": "2026-11-13 02:39:07"
+    },
+    {
+      "level": "67",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Demon's Agent Falston": [
@@ -6191,6 +6246,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-13 02:39:07"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -6460,6 +6520,11 @@
       "level": "62",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "62",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -6582,6 +6647,11 @@
       "level": "61",
       "state": "yes",
       "timestamp": "2026-11-13 02:39:07"
+    },
+    {
+      "level": "61",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Ancient Drake": [
@@ -6973,6 +7043,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Lord Ishka": [
@@ -7684,6 +7759,11 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-11-13 09:59:28"
+    },
+    {
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Harit Guardian Garangky": [
@@ -9619,6 +9699,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Flame Lord Shadar": [
@@ -10629,6 +10714,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Vuku Grand Seer Gharmash": [
@@ -11406,6 +11496,11 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Tirak": [
@@ -12321,6 +12416,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-12 07:37:54"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -12438,6 +12538,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-11-12 07:37:54"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Unrequited Kael": [
@@ -12545,6 +12650,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-11-09 10:14:19"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Greyclaw Kutus": [
@@ -12652,6 +12762,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-12 07:37:54"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Kuroboros' Priest": [
@@ -13045,6 +13160,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-11 10:41:12"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -13254,6 +13374,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-11 10:41:12"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-13 17:37:38"
     }
   ],
   "Sukar Wererat Chief": [
