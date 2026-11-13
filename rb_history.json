@@ -1271,6 +1271,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-10 23:41:05"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-13 22:52:46"
     }
   ],
   "Ember": [
@@ -6099,6 +6104,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-26 06:26:55"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-13 22:52:46"
     }
   ],
   "Rahha": [
@@ -6388,6 +6398,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-13 22:52:46"
     }
   ],
   "Roaring Lord Kastor": [
@@ -6769,6 +6784,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-13 22:52:46"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -7471,6 +7491,11 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-11-05 08:32:07"
+    },
+    {
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-11-13 22:52:46"
     }
   ],
   "Demon Kuri": [
@@ -7831,6 +7856,11 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-11-10 02:57:41"
+    },
+    {
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-13 22:52:46"
     }
   ],
   "Refugee Applicant Leo": [
@@ -7908,6 +7938,11 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-11-12 00:31:14"
+    },
+    {
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-13 22:52:46"
     }
   ],
   "Bandit Leader Barda": [
@@ -9995,6 +10030,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-11 10:41:12"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-13 22:52:46"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -12242,6 +12282,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-13 22:52:46"
     }
   ],
   "Soul Scavenger": [
@@ -12324,6 +12369,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-13 22:52:46"
     }
   ],
   "Zombie Lord Crowl": [
@@ -12767,6 +12817,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-13 22:52:46"
     }
   ],
   "Kuroboros' Priest": [
@@ -12839,6 +12894,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-13 09:59:28"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-13 22:52:46"
     }
   ],
   "Lead Tracker Sharuk": [
@@ -13033,6 +13093,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-13 22:52:46"
     }
   ],
   "Kaysha Herald of Icarus": [
@@ -13902,6 +13967,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-13 09:59:28"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-13 22:52:46"
     }
   ]
 }
