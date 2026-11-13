@@ -1410,6 +1410,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-13 02:39:07"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -1641,6 +1646,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-07 18:56:55"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-13 02:39:07"
     }
   ],
   "Lilith": [
@@ -2424,6 +2434,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-13 02:39:07"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -3894,6 +3909,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-10 10:58:44"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-13 02:39:07"
     }
   ],
   "Doom Blade Tanatos": [
@@ -5636,6 +5656,11 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-11-11 18:03:48"
+    },
+    {
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-11-13 02:39:07"
     }
   ],
   "Demon's Agent Falston": [
@@ -6126,6 +6151,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-11 18:03:48"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-13 02:39:07"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -6512,6 +6542,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-11-11 18:03:48"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-11-13 02:39:07"
     }
   ],
   "Ancient Drake": [
@@ -9013,6 +9048,11 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-11-13 02:39:07"
     }
   ],
   "Lizardmen Leader Hellion": [
@@ -9626,6 +9666,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-13 02:39:07"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -10258,6 +10303,11 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-13 02:39:07"
     }
   ],
   "Stakato Queen Zyrnna": [
@@ -11383,6 +11433,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-11-13 02:39:07"
     }
   ],
   "Patriarch Kuroboros": [
@@ -11634,6 +11689,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-11 18:03:48"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-13 02:39:07"
     }
   ],
   "Ikuntai": [
@@ -13007,6 +13067,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-12 00:31:14"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-13 02:39:07"
     }
   ],
   "Serpent Demon Bifrons": [
@@ -13627,6 +13692,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-12 07:37:54"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-13 02:39:07"
     }
   ]
 }
