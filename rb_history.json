@@ -1348,6 +1348,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Gordon": [
@@ -2680,6 +2685,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Gigantic Golem": [
@@ -2762,6 +2772,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -2911,6 +2926,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Death Lord Ipos": [
@@ -3075,6 +3095,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Kernon": [
@@ -3287,6 +3312,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-14 02:44:55"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -3466,6 +3496,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Storm Winged Naga": [
@@ -3912,6 +3947,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-14 02:44:55"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Plague Golem": [
@@ -4044,6 +4084,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-14 02:44:55"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Doom Blade Tanatos": [
@@ -4952,6 +4997,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Korim": [
@@ -5221,6 +5271,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-14 02:44:55"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Palibati Queen Themis": [
@@ -5333,6 +5388,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Roaring Skylancer": [
@@ -5572,6 +5632,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-14 02:44:55"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -5734,6 +5799,11 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -6797,6 +6867,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Ancient Drake": [
@@ -7061,6 +7136,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -7198,6 +7278,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Lord Ishka": [
@@ -7636,6 +7721,11 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-11-13 22:52:46"
+    },
+    {
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Demon Kuri": [
@@ -7934,6 +8024,11 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Harit Guardian Garangky": [
@@ -8006,6 +8101,11 @@
       "level": "56",
       "state": "no",
       "timestamp": "2026-11-13 22:52:46"
+    },
+    {
+      "level": "56",
+      "state": "yes",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Refugee Applicant Leo": [
@@ -9558,6 +9658,11 @@
       "level": "36",
       "state": "yes",
       "timestamp": "2026-11-07 07:49:37"
+    },
+    {
+      "level": "36",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Beleth's Eye": [
@@ -10257,6 +10362,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Red Eye Captain Trakia": [
@@ -10465,6 +10575,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Tasaba Patriarch Hellena": [
@@ -10537,6 +10652,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-07 07:49:37"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Breka Warlock Pastu": [
@@ -10663,6 +10783,11 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-13 02:39:07"
+    },
+    {
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Stakato Queen Zyrnna": [
@@ -10842,6 +10967,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-14 02:44:55"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Nurka's Messenger": [
@@ -11843,6 +11973,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Patriarch Kuroboros": [
@@ -11982,6 +12117,11 @@
       "level": "26",
       "state": "yes",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "26",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Betrayer of Urutu Freki": [
@@ -13500,6 +13640,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -13714,6 +13859,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Sukar Wererat Chief": [
@@ -13963,6 +14113,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-13 09:59:28"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Madness Beast": [
@@ -14125,6 +14280,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-14 02:44:55"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ],
   "Zombie Lord Ferkel": [
@@ -14257,6 +14417,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-13 22:52:46"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-14 15:55:26"
     }
   ]
 }
