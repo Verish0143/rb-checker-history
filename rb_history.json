@@ -787,6 +787,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-14 23:55:57"
     }
   ],
   "Tully": [
@@ -1969,6 +1974,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-14 20:14:57"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-14 23:55:57"
     }
   ],
   "Varka's Commander Mos": [
@@ -2884,6 +2894,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-14 23:55:57"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -4261,6 +4276,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-14 20:14:57"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-14 23:55:57"
     }
   ],
   "Vanor Chief Kandra": [
@@ -4572,6 +4592,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-12 07:37:54"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-14 23:55:57"
     }
   ],
   "Immortal Savior Mardil": [
@@ -4895,6 +4920,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-14 20:14:57"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-14 23:55:57"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -5971,6 +6001,11 @@
       "level": "67",
       "state": "yes",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "67",
+      "state": "no",
+      "timestamp": "2026-11-14 23:55:57"
     }
   ],
   "Demon's Agent Falston": [
@@ -6113,6 +6148,11 @@
       "level": "66",
       "state": "yes",
       "timestamp": "2026-11-14 02:44:55"
+    },
+    {
+      "level": "66",
+      "state": "no",
+      "timestamp": "2026-11-14 23:55:57"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -6329,6 +6369,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-13 22:52:46"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-14 23:55:57"
     }
   ],
   "Rahha": [
@@ -9972,6 +10017,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-14 23:55:57"
     }
   ],
   "Fire Lord Shadar": [
@@ -11691,6 +11741,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-14 23:55:57"
     }
   ],
   "Giant Wasteland Basilisk": [
@@ -11778,6 +11833,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-11 10:41:12"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-14 23:55:57"
     }
   ],
   "Ragraman": [
@@ -11812,6 +11872,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-04 15:43:46"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-14 23:55:57"
     }
   ],
   "Elf Renoa": [
