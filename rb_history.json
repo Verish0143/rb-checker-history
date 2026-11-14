@@ -1113,6 +1113,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Hannibal": [
@@ -2026,6 +2031,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-11 10:41:12"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Varka's Hero Shadith": [
@@ -2476,6 +2486,11 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Last Lesser Giant Glaki": [
@@ -3227,6 +3242,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -3625,6 +3645,11 @@
       "level": "74",
       "state": "no",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "74",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Death Lord Hallate": [
@@ -3832,6 +3857,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Plague Golem": [
@@ -3959,6 +3989,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-13 09:59:28"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Doom Blade Tanatos": [
@@ -4484,6 +4519,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-07 14:25:11"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Anakim's Nemesis Zakaron": [
@@ -5116,6 +5156,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Palibati Queen Themis": [
@@ -5457,6 +5502,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -5893,6 +5943,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -7225,6 +7280,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Taik High Prefect Arak": [
@@ -10657,6 +10717,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Nurka's Messenger": [
@@ -11700,6 +11765,11 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Tiger Hornet": [
@@ -12593,6 +12663,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Unrequited Kael": [
@@ -12705,6 +12780,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Greyclaw Kutus": [
@@ -13561,6 +13641,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-13 09:59:28"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Discarded Guardian": [
@@ -13840,6 +13925,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-13 09:59:28"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-14 02:44:55"
     }
   ],
   "Zombie Lord Ferkel": [
