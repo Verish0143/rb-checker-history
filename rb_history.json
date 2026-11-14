@@ -262,6 +262,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-10 18:35:59"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Queen Shyeed": [
@@ -1959,6 +1964,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-11 18:03:48"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Varka's Commander Mos": [
@@ -4246,6 +4256,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Vanor Chief Kandra": [
@@ -4875,6 +4890,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -5804,6 +5824,11 @@
       "level": "69",
       "state": "yes",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "69",
+      "state": "no",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -6603,6 +6628,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-13 22:52:46"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Roaring Lord Kastor": [
@@ -6740,6 +6770,11 @@
       "level": "62",
       "state": "no",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "62",
+      "state": "yes",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -6872,6 +6907,11 @@
       "level": "61",
       "state": "yes",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "61",
+      "state": "no",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Ancient Drake": [
@@ -6994,6 +7034,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-13 22:52:46"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -7283,6 +7328,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Lord Ishka": [
@@ -7445,6 +7495,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-14 02:44:55"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Taik High Prefect Arak": [
@@ -7587,6 +7642,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -7865,6 +7925,11 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -8188,6 +8253,11 @@
       "level": "56",
       "state": "no",
       "timestamp": "2026-11-13 22:52:46"
+    },
+    {
+      "level": "56",
+      "state": "yes",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Bandit Leader Barda": [
@@ -8790,6 +8860,11 @@
       "level": "45",
       "state": "yes",
       "timestamp": "2026-11-03 21:14:20"
+    },
+    {
+      "level": "45",
+      "state": "no",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Evil Spirit Cyrion": [
@@ -9000,6 +9075,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-02 01:30:22"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Icarus Sample 1": [
@@ -9042,6 +9122,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-02 18:20:39"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Leto Chief Talkin": [
@@ -9287,6 +9372,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-04 07:36:14"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Wizard of Storm Teruk": [
@@ -10315,6 +10405,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-13 22:52:46"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-14 20:14:57"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
