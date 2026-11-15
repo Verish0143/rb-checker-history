@@ -391,6 +391,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Gwindorr": [
@@ -792,6 +797,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-14 23:55:57"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Tully": [
@@ -1654,6 +1664,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Ketra's Hero Hekaton": [
@@ -1922,6 +1937,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-08 14:59:30"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Varka's Chief Horus": [
@@ -2285,6 +2305,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-12 16:15:54"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Longhorn Golkonda": [
@@ -2899,6 +2924,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-14 23:55:57"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -2956,6 +2986,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Death Lord Ipos": [
@@ -4114,6 +4149,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Doom Blade Tanatos": [
@@ -5326,6 +5366,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Palibati Queen Themis": [
@@ -6290,6 +6335,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-11 18:03:48"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -10149,6 +10199,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Flame Lord Shadar": [
@@ -10256,6 +10311,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -11587,6 +11647,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Boss Akata": [
@@ -12041,6 +12106,11 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Tirak": [
@@ -12138,6 +12208,11 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Patriarch Kuroboros": [
@@ -12220,6 +12295,11 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Tiger Hornet": [
@@ -12282,6 +12362,11 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Betrayer of Urutu Freki": [
@@ -12419,6 +12504,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Ikuntai": [
@@ -12837,6 +12927,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-15 04:08:18"
     }
   ],
   "Soul Scavenger": [
