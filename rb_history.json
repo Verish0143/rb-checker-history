@@ -396,6 +396,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-15 04:08:18"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Gwindorr": [
@@ -1669,6 +1674,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-15 04:08:18"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Ketra's Hero Hekaton": [
@@ -1942,6 +1952,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-15 04:08:18"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Varka's Chief Horus": [
@@ -2991,6 +3006,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-15 04:08:18"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Death Lord Ipos": [
@@ -3377,6 +3397,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -4012,6 +4037,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Plague Golem": [
@@ -4428,6 +4458,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-11 10:41:12"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -4637,6 +4672,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-14 23:55:57"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Immortal Savior Mardil": [
@@ -4736,6 +4776,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Beast Lord Behemoth": [
@@ -5239,6 +5284,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Meanas Anor": [
@@ -5732,6 +5782,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -6051,6 +6106,11 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-11-14 23:55:57"
+    },
+    {
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Demon's Agent Falston": [
@@ -6728,6 +6788,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-14 20:14:57"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Roaring Lord Kastor": [
@@ -9175,6 +9240,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-11-14 20:14:57"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Icarus Sample 1": [
@@ -9848,6 +9918,11 @@
       "level": "36",
       "state": "no",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "36",
+      "state": "yes",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Beleth's Eye": [
@@ -10072,6 +10147,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-14 23:55:57"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Fire Lord Shadar": [
@@ -10204,6 +10284,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-15 04:08:18"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Flame Lord Shadar": [
@@ -10316,6 +10401,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-15 04:08:18"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -11177,6 +11267,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Nurka's Messenger": [
@@ -11279,6 +11374,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Vuku Grand Seer Gharmash": [
@@ -11652,6 +11752,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-15 04:08:18"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Boss Akata": [
@@ -11811,6 +11916,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-14 23:55:57"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Giant Wasteland Basilisk": [
@@ -12111,6 +12221,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-11-15 04:08:18"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Tirak": [
@@ -12213,6 +12328,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-11-15 04:08:18"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Patriarch Kuroboros": [
@@ -12509,6 +12629,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-15 04:08:18"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Ikuntai": [
@@ -13564,6 +13689,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-13 22:52:46"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Lead Tracker Sharuk": [
@@ -13987,6 +14117,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-13 02:39:07"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-15 11:56:11"
     }
   ],
   "Serpent Demon Bifrons": [
