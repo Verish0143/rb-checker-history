@@ -272,6 +272,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-16 10:10:13"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Queen Shyeed": [
@@ -421,6 +426,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Gwindorr": [
@@ -1391,6 +1401,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Ember": [
@@ -1794,6 +1809,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Ketra's Hero Hekaton": [
@@ -2754,6 +2774,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-17 03:05:44"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -3455,6 +3480,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Kernon": [
@@ -3896,6 +3926,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Storm Winged Naga": [
@@ -4706,6 +4741,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Vanor Chief Kandra": [
@@ -4833,6 +4873,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -5047,6 +5092,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-15 11:56:11"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Immortal Savior Mardil": [
@@ -5156,6 +5206,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Beast Lord Behemoth": [
@@ -5293,6 +5348,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-16 10:10:13"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -5405,6 +5465,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -5943,6 +6008,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Roaring Skylancer": [
@@ -7101,6 +7171,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-17 03:05:44"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -7420,6 +7495,11 @@
       "level": "62",
       "state": "yes",
       "timestamp": "2026-11-16 10:10:13"
+    },
+    {
+      "level": "62",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -8352,6 +8432,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -8496,6 +8581,11 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Demon Kuri": [
@@ -8916,6 +9006,11 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Refugee Applicant Leo": [
@@ -9013,6 +9108,11 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-11-17 03:05:44"
+    },
+    {
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Bandit Leader Barda": [
@@ -9331,6 +9431,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-11-16 10:10:13"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Paniel the Unicorn": [
@@ -9905,6 +10010,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Icarus Sample 1": [
@@ -10299,6 +10409,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-11-15 18:21:13"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Leader of Cat Gang": [
@@ -10663,6 +10778,11 @@
       "level": "36",
       "state": "yes",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "36",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Beleth's Eye": [
@@ -11039,6 +11159,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-15 11:56:11"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Flame Lord Shadar": [
@@ -11762,6 +11887,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-17 03:05:44"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Breka Warlock Pastu": [
@@ -11826,6 +11956,11 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-06 21:59:59"
+    },
+    {
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Revenant of Sir Calibus": [
@@ -12209,6 +12344,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Vuku Grand Seer Gharmash": [
@@ -12336,6 +12476,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -12974,6 +13119,11 @@
       "level": "29",
       "state": "no",
       "timestamp": "2026-11-17 03:05:44"
+    },
+    {
+      "level": "29",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Partisan Leader Talakin": [
@@ -13325,6 +13475,11 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Tiger Hornet": [
@@ -15431,6 +15586,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Discarded Guardian": [
@@ -15745,6 +15905,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-17 20:00:42"
     }
   ],
   "Zombie Lord Ferkel": [
