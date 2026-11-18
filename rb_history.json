@@ -705,6 +705,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-13 17:37:38"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Last Titan Utenus": [
@@ -867,6 +872,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-18 02:19:11"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Tully": [
@@ -1416,6 +1426,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Ember": [
@@ -1973,6 +1988,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-18 02:19:11"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Sailren": [
@@ -2132,6 +2152,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-18 02:19:11"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Varka's Chief Horus": [
@@ -2677,6 +2702,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-18 02:19:11"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -3050,6 +3080,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-18 02:19:11"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Gigantic Golem": [
@@ -3142,6 +3177,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-18 02:19:11"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -3520,6 +3560,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Kernon": [
@@ -4088,6 +4133,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-09 10:14:19"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -5261,6 +5311,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Beast Lord Behemoth": [
@@ -8335,6 +8390,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Taik High Prefect Arak": [
@@ -8656,6 +8716,11 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Demon Kuri": [
@@ -9188,6 +9253,11 @@
       "level": "56",
       "state": "no",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "56",
+      "state": "yes",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Bandit Leader Barda": [
@@ -9866,6 +9936,11 @@
       "level": "45",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "45",
+      "state": "yes",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Shacram": [
@@ -10725,6 +10800,11 @@
       "level": "38",
       "state": "no",
       "timestamp": "2026-11-16 10:10:13"
+    },
+    {
+      "level": "38",
+      "state": "yes",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Premo Prime": [
@@ -11112,6 +11192,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-15 11:56:11"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Fire Lord Shadar": [
@@ -11900,6 +11985,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Tasaba Patriarch Hellena": [
@@ -11992,6 +12082,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-18 02:19:11"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Breka Warlock Pastu": [
@@ -12235,6 +12330,11 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-11-14 09:27:01"
+    },
+    {
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Corsair Captain Kylon": [
@@ -13361,6 +13461,11 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Tirak": [
@@ -13809,6 +13914,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Ikuntai": [
@@ -14964,6 +15074,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Lead Tracker Sharuk": [
@@ -15325,6 +15440,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-18 02:19:11"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -15569,6 +15689,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Sukar Wererat Chief": [
@@ -15848,6 +15973,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-18 02:19:11"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Madness Beast": [
@@ -16030,6 +16160,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ],
   "Zombie Lord Ferkel": [
@@ -16182,6 +16317,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-18 02:19:11"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-18 10:22:42"
     }
   ]
 }
