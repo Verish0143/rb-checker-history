@@ -277,6 +277,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Queen Shyeed": [
@@ -857,6 +862,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-16 10:10:13"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Tully": [
@@ -1958,6 +1968,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-09 20:45:22"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Sailren": [
@@ -2112,6 +2127,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Varka's Chief Horus": [
@@ -2652,6 +2672,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -3020,6 +3045,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Gigantic Golem": [
@@ -3107,6 +3137,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-14 15:55:26"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -3931,6 +3966,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Storm Winged Naga": [
@@ -4878,6 +4918,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -5097,6 +5142,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Immortal Savior Mardil": [
@@ -5353,6 +5403,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -6013,6 +6068,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Roaring Skylancer": [
@@ -7936,6 +7996,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -8534,6 +8599,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-16 10:10:13"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Abyss Brukunt": [
@@ -8919,6 +8989,11 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Harit Guardian Garangky": [
@@ -9740,6 +9815,11 @@
       "level": "45",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "45",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Evil Spirit Cyrion": [
@@ -10367,6 +10447,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Wizard of Storm Teruk": [
@@ -10543,6 +10628,11 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-11-13 02:39:07"
+    },
+    {
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Lizardmen Leader Hellion": [
@@ -11164,6 +11254,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Flame Lord Shadar": [
@@ -11892,6 +11987,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Breka Warlock Pastu": [
@@ -12481,6 +12581,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -13928,6 +14033,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Pan Dryad": [
@@ -15210,6 +15320,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -15728,6 +15843,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ],
   "Madness Beast": [
@@ -16057,6 +16177,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-18 02:19:11"
     }
   ]
 }
