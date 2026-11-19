@@ -538,6 +538,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Hekaton Prime": [
@@ -730,6 +735,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Last Titan Utenus": [
@@ -1106,6 +1116,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Gorgolos": [
@@ -1874,6 +1889,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Ketra's Hero Hekaton": [
@@ -2747,6 +2767,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -3847,6 +3872,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -4567,6 +4597,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Plague Golem": [
@@ -4906,6 +4941,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Vanor Chief Kandra": [
@@ -5272,6 +5312,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Immortal Savior Mardil": [
@@ -5792,6 +5837,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Korim": [
@@ -7376,6 +7426,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -7989,6 +8044,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -8510,6 +8570,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Taik High Prefect Arak": [
@@ -9000,6 +9065,11 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-11-16 10:10:13"
+    },
+    {
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -9398,6 +9468,11 @@
       "level": "56",
       "state": "no",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "56",
+      "state": "yes",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Bandit Leader Barda": [
@@ -10858,6 +10933,11 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-11-18 02:19:11"
+    },
+    {
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Lizardmen Leader Hellion": [
@@ -11646,6 +11726,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -11875,6 +11960,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -12277,6 +12367,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-18 10:22:42"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Breka Warlock Pastu": [
@@ -12540,6 +12635,11 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Corsair Captain Kylon": [
@@ -12896,6 +12996,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-18 02:19:11"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -13008,6 +13113,11 @@
       "level": "32",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "32",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Apepi": [
@@ -14734,6 +14844,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Zombie Lord Crowl": [
@@ -15451,6 +15566,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-19 08:01:55"
     }
   ],
   "Tracker Leader Sharuk": [
