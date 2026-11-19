@@ -3033,6 +3033,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-19 17:16:06"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Flamestone Giant": [
@@ -3887,6 +3892,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-19 08:01:55"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -5720,6 +5730,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-19 17:16:06"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -6278,6 +6293,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-18 02:19:11"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Roaring Skylancer": [
@@ -6881,6 +6901,11 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-11-15 18:21:13"
+    },
+    {
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Demon's Agent Falston": [
@@ -7038,6 +7063,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -7446,6 +7476,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-19 08:01:55"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -7785,6 +7820,11 @@
       "level": "62",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "62",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -8251,6 +8291,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -12107,6 +12152,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Red Eye Captain Trakia": [
@@ -12608,6 +12658,11 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Stakato Queen Zyrnna": [
@@ -13382,6 +13437,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Boss Akata": [
@@ -14364,6 +14424,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Ikuntai": [
@@ -14598,6 +14663,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Pan Dryad": [
@@ -15183,6 +15253,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Unrequited Kael": [
@@ -15452,6 +15527,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-19 17:16:06"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Kuroboros' Priest": [
@@ -15925,6 +16005,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -16022,6 +16107,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Serpent Demon Bifrons": [
@@ -16179,6 +16269,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-19 17:16:06"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Sukar Wererat Chief": [
@@ -16321,6 +16416,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-19 17:16:06"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Discarded Guardian": [
@@ -16473,6 +16573,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-19 17:16:06"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Madness Beast": [
@@ -16665,6 +16770,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-19 17:16:06"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ],
   "Zombie Lord Ferkel": [
@@ -16827,6 +16937,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-19 00:50:41"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-19 23:36:18"
     }
   ]
 }
