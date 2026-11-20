@@ -1526,6 +1526,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-20 12:55:30"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Ember": [
@@ -2476,6 +2481,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-17 11:41:48"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Varka's Hero Shadith": [
@@ -6909,6 +6919,11 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-11-16 20:27:22"
+    },
+    {
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -7071,6 +7086,11 @@
       "level": "67",
       "state": "yes",
       "timestamp": "2026-11-19 23:36:18"
+    },
+    {
+      "level": "67",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Demon's Agent Falston": [
@@ -7233,6 +7253,11 @@
       "level": "66",
       "state": "yes",
       "timestamp": "2026-11-19 23:36:18"
+    },
+    {
+      "level": "66",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -7995,6 +8020,11 @@
       "level": "62",
       "state": "yes",
       "timestamp": "2026-11-20 12:55:30"
+    },
+    {
+      "level": "62",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -8294,6 +8324,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-20 12:55:30"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -8471,6 +8506,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-19 23:36:18"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -9549,6 +9589,11 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-11-20 12:55:30"
+    },
+    {
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Harit Guardian Garangky": [
@@ -10700,6 +10745,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Icarus Sample 1": [
@@ -10819,6 +10869,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Nakondas": [
@@ -11067,6 +11122,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-18 02:19:11"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Wizard of Storm Teruk": [
@@ -11114,6 +11174,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-17 20:00:42"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Leader of Cat Gang": [
@@ -11186,6 +11251,11 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-11-11 10:41:12"
+    },
+    {
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Nellis' Vengeful Spirit": [
@@ -11253,6 +11323,11 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-11-19 08:01:55"
+    },
+    {
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Lizardmen Leader Hellion": [
@@ -11355,6 +11430,11 @@
       "level": "38",
       "state": "no",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "38",
+      "state": "yes",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Premo Prime": [
@@ -11414,6 +11494,11 @@
       "level": "37",
       "state": "yes",
       "timestamp": "2026-11-13 09:59:28"
+    },
+    {
+      "level": "37",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Evil Spirit Tempest": [
@@ -11426,6 +11511,11 @@
       "level": "36",
       "state": "yes",
       "timestamp": "2026-10-21 00:31:52"
+    },
+    {
+      "level": "36",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Sebek": [
@@ -11508,6 +11598,11 @@
       "level": "36",
       "state": "yes",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "36",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Beleth's Eye": [
@@ -12056,6 +12151,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-20 12:55:30"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -12305,6 +12405,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-20 04:14:31"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -12419,6 +12524,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-13 09:59:28"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Remmel": [
@@ -12471,6 +12581,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-12 22:15:55"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Sejarr's Servitor": [
@@ -12523,6 +12638,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Soul Collector Acheron": [
@@ -12722,6 +12842,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-19 08:01:55"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Breka Warlock Pastu": [
@@ -12734,6 +12859,11 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-10-21 22:03:02"
+    },
+    {
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Cronos's Servitor Mumu": [
@@ -12796,6 +12926,11 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Revenant of Sir Calibus": [
@@ -12888,6 +13023,11 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-20 12:55:30"
+    },
+    {
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Stakato Queen Zyrnna": [
@@ -13107,6 +13247,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Nurka's Messenger": [
@@ -13376,6 +13521,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-20 12:55:30"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -14022,6 +14172,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-16 10:10:13"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Elf Renoa": [
@@ -15568,6 +15723,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-11-20 12:55:30"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Unrequited Kael": [
@@ -16609,6 +16769,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-19 23:36:18"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-20 20:52:16"
     }
   ],
   "Sukar Wererat Chief": [
