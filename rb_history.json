@@ -932,6 +932,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-18 10:22:42"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-21 01:50:07"
     }
   ],
   "Tully": [
@@ -1996,6 +2001,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-13 09:59:28"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-21 01:50:07"
     }
   ],
   "Lilith": [
@@ -2287,6 +2297,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-20 12:55:30"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-21 01:50:07"
     }
   ],
   "Varka's Chief Horus": [
@@ -2486,6 +2501,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-20 20:52:16"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-21 01:50:07"
     }
   ],
   "Varka's Hero Shadith": [
@@ -9169,6 +9189,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-19 17:16:06"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-21 01:50:07"
     }
   ],
   "Abyss Brukunt": [
@@ -11435,6 +11460,11 @@
       "level": "38",
       "state": "yes",
       "timestamp": "2026-11-20 20:52:16"
+    },
+    {
+      "level": "38",
+      "state": "no",
+      "timestamp": "2026-11-21 01:50:07"
     }
   ],
   "Premo Prime": [
@@ -11862,6 +11892,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-18 18:54:52"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-21 01:50:07"
     }
   ],
   "Fire Lord Shadar": [
@@ -14996,6 +15031,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-20 12:55:30"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-21 01:50:07"
     }
   ],
   "Mammon Collector Talos": [
@@ -15118,6 +15158,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-19 23:36:18"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-21 01:50:07"
     }
   ],
   "Pan Dryad": [
@@ -15728,6 +15773,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-11-20 20:52:16"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-11-21 01:50:07"
     }
   ],
   "Unrequited Kael": [
@@ -16774,6 +16824,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-20 20:52:16"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-21 01:50:07"
     }
   ],
   "Sukar Wererat Chief": [
@@ -17275,6 +17330,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-19 23:36:18"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-21 01:50:07"
     }
   ],
   "Zombie Lord Ferkel": [
